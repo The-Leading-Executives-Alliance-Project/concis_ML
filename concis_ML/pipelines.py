@@ -60,11 +60,8 @@ class MongoPipeline(object):
         if start_url is not None:
             # No need to log the start URL for now, because its confirmed it was working
             #print(f"Processing item from start URL: {start_url}")
-
             pass
             
-
-
         # Function tag
         #func_tag = "[process_item]"
         func_tag = ""
