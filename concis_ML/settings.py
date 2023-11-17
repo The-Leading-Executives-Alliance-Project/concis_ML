@@ -99,6 +99,3 @@ JOBDIR = 'crawls/UBCSpider-1'
 ITEM_PIPELINES = {
     'concis_ML.pipelines.MongoPipeline': 300,
 }
-
-MONGO_URL = "mongodb+srv://sonozaki:55843031@concisscrape.p17dibp.mongodb.net/?retryWrites=true&w=majority"
-

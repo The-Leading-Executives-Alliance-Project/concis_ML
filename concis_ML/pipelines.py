@@ -11,6 +11,9 @@ from difflib import unified_diff
 import os
 from datetime import datetime
 
+from dotenv import load_dotenv
+import os
+
 
 class MongoPipeline(object):
     """
@@ -26,8 +29,10 @@ class MongoPipeline(object):
         # Collection name is set to the faculty attribute of the spider
         self.collection_name = getattr(spider, 'faculty', 'default_collection')
 
+        load_dotenv()
         # Retrieve the MongoDB URI from settings
-        db_uri = spider.settings.get('MONGO_URL')
+        db_uri = os.getenv('MONGO_URL')  # Use os.getenv to get the environment variable
+
 
         # Establish a connection to the MongoDB server
         self.db_client = pymongo.MongoClient(db_uri)
@@ -48,15 +53,30 @@ class MongoPipeline(object):
 
 
     def process_item(self, item, spider):
+        meta_data = item.get('meta_data', {})
+
+        # Example usage of start_url from meta_data
+        start_url = meta_data.get('start_url')
+        if start_url is not None:
+            # No need to log the start URL for now, because its confirmed it was working
+            #print(f"Processing item from start URL: {start_url}")
+
+            pass
+            
+
+
         # Function tag
-        func_tag = "[process_item]"
+        #func_tag = "[process_item]"
+        func_tag = ""
 
         # Convert item to dict
         item_dict = ItemAdapter(item).asdict()
+        item_dict.pop('meta_data', None)
         
         # Check if the URL of the item already exists in the collection
         existing = self.db[self.collection_name].find_one({'url': item['url']})
-        
+
+
         if existing:
             # Calculate differences
             old_content = existing['text']

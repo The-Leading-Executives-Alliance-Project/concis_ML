@@ -68,29 +68,23 @@ from scrapy.crawler import CrawlerProcess
 from scrapy.utils.project import get_project_settings
 from concis_ML.spiders.UBCSpider import UBCSpider
 
-
-load_dotenv()
-
-
 """
 We only use the code below, code after main is not being used right now 
 """
+
 def scrapy():
     faculty_to_scrape = 'commerce-and-business-administration'  # Replace with the faculty you want to scrape
     custom_settings = {
         'LOG_LEVEL': 'WARNING',  # Set log level to warning to reduce console output
     }
 
-    process = CrawlerProcess(get_project_settings(), custom_settings)
+    process = CrawlerProcess(get_project_settings())
     process.crawl(UBCSpider, faculty=faculty_to_scrape, jobdir='crawls/UBCSpider-1')
     process.start()
 
 
 
 if __name__ == "__main__":
+    load_dotenv()
     scrapy()
-
-
-
-
 
