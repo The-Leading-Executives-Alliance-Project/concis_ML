@@ -22,51 +22,22 @@ sudo xcode-select --switch /Applications/Xcode.app
 python3 app.py
 """
 
-from bs4 import BeautifulSoup
 import requests, lxml, os, json
 from parsel import Selector
 
 # requestHandler()
 import random
 
-# selenium_stealth
-from selenium import webdriver
-from selenium_stealth import stealth
-import time
-
-# Proxy Rotation
-from fp.fp import FreeProxy
-
-# For CSV parsing
-import pandas
-
-# For filtering venue names
-import re
-
-# For selenium web scrape tutorial
-from selenium.webdriver.chrome.service import Service
-from webdriver_manager.chrome import ChromeDriverManager
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.wait import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-#import org.openqa.selenium.support.ui.Select;
-from selenium.webdriver.support.select import Select
-#import org.openqa.selenium.By;
-
 import requests
-from bs4 import BeautifulSoup
-from selenium import webdriver
 from pymongo.mongo_client import MongoClient
 from pymongo.server_api import ServerApi
-
-from selenium.common.exceptions import WebDriverException
 
 from dotenv import load_dotenv
 import os
 
 from scrapy.crawler import CrawlerProcess
 from scrapy.utils.project import get_project_settings
-from concis_ML.spiders.UBCSpider import UBCSpider
+from web_scraper.spiders.UBCSpider import UBCSpider
 
 from urllib.parse import urlparse
 import random
@@ -80,17 +51,6 @@ from collections import defaultdict
 """
 We only use the code below, code after main is not being used right now 
 """
-
-def scrapy(school='UBC',faculty_to_scrape='commerce-and-business-administration'):
-    custom_settings = {
-        'LOG_LEVEL': 'WARNING',  # Set log level to warning to reduce console output
-    }
-
-    process = CrawlerProcess(get_project_settings())
-    process.crawl(UBCSpider, faculty=faculty_to_scrape, jobdir='crawls/UBCSpider-1')
-    process.start()
-
-
 def top_longest_common_substrings(text1, text2, top_n=3):
     dp = [[0] * (len(text2) + 1) for _ in range(len(text1) + 1)]
     common_substrings = []
@@ -144,7 +104,7 @@ def remove_substrings(text, substrings):
     return text
 
 
-def update__and_save_common_strings(filename: str, domain: str, new_common_substrings) -> str:
+def update_and_save_common_strings(filename: str, domain: str, new_common_substrings) -> str:
     """ Manage common strings for a specific domain. """
 
     def load_common_strings():
@@ -204,7 +164,7 @@ def clean_data(school='UBC',faculty='commerce-and-business-administration'):
     random.shuffle(shuffle_docs)
 
     # For common substring extraction
-    filename = 'common_substrings.json'
+    filename = 'web_scraper/common_substrings.json'
 
     grouped_data = defaultdict(list)
     for doc in shuffle_docs:
@@ -233,7 +193,7 @@ def clean_data(school='UBC',faculty='commerce-and-business-administration'):
 
             this_text = docs[i]['text']
             # This returns most up-to-date common substring that is loaded from file, and calculated from two texts
-            updated_common_substring = update__and_save_common_strings(filename, domain, top_longest_common_substrings(this_text, prev_text))
+            updated_common_substring = update_and_save_common_strings(filename, domain, top_longest_common_substrings(this_text, prev_text))
             
             # Need to update the doc at index 0 with the udpated common substring found in iteration 1
             if i == 1:
@@ -255,18 +215,30 @@ def substring():
     for substring in longest_common_substrings:
         print("\n", substring)
 
+
+
+def scrape_websites(school='UBC',faculty_to_scrape='commerce-and-business-administration'):
+    custom_settings = {
+        'LOG_LEVEL': 'WARNING',  # Set log level to warning to reduce console output
+    }
+
+    if school == 'UBC':
+        process = CrawlerProcess(get_project_settings())
+        # Do a resume crawl with list of request seen
+        # process.crawl(UBCSpider, faculty=faculty_to_scrape, jobdir='web_scraper/crawls/UBCSpider-1')
+
+        # do a fresh start
+        process.crawl(UBCSpider, faculty=faculty_to_scrape)        
+        process.start()
+    else:
+        raise ValueError(f"School '{school}' not supported")
+
+
 if __name__ == "__main__":
     load_dotenv()
 
     # This is test function for common substring extraction
     #substring()
 
-    #scrapy()
-    clean_data('UBC','commerce-and-business-administration')
-
-
-
-
-
-
-
+    scrape_websites(school='UBC',faculty_to_scrape='commerce-and-business-administration')
+    # clean_data('UBC','commerce-and-business-administration')

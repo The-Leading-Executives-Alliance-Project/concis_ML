@@ -1,0 +1,657 @@
+<!DOCTYPE html>
+<!--[if IE 7]>  <html class="no-js lt-ie9 lt-ie8 ie7" lang="en"> <![endif]-->
+<!--[if IE 8]>  <html class="no-js lt-ie9 ie8" lang="en"> <![endif]-->
+<!--[if IE 9]>  <html class="no-js ie9" lang="en"> <![endif]-->
+<!--[if gt IE 9]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://mybcom.sauder.ubc.ca/sites/mybcom.sauder.ubc.ca/files/favicon_v2.ico" type="image/vnd.microsoft.icon" />
+<meta name="generator" content="Drupal 7 (https://www.drupal.org)" />
+<link rel="canonical" href="https://mybcom.sauder.ubc.ca/Sitemap" />
+<link rel="shortlink" href="https://mybcom.sauder.ubc.ca/Sitemap" />
+<meta property="og:site_name" content="myBCom | Sauder School of Business at UBC, Vancouver, Canada" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://mybcom.sauder.ubc.ca/Sitemap" />
+<meta property="og:title" content="Site map" />
+  <title>Site map | myBCom | Sauder School of Business at UBC, Vancouver, Canada</title>
+  <link rel="stylesheet" type="text/css" href="https://cloud.typography.com/7195872/674806/css/fonts.css" />
+  <link href="https://cdn.jsdelivr.net/fontawesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
+  <link type="text/css" rel="stylesheet" href="https://mybcom.sauder.ubc.ca/sites/mybcom.sauder.ubc.ca/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://mybcom.sauder.ubc.ca/sites/mybcom.sauder.ubc.ca/files/css/css_ntCz7udh66prM85dlibL5cSl16uR5mFkmPYLsA2b56k.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://mybcom.sauder.ubc.ca/sites/mybcom.sauder.ubc.ca/files/css/css_XTqPYLGu5YpQbMu2wKYGBB0R64EwbEatf1LLzIErmSw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://mybcom.sauder.ubc.ca/sites/mybcom.sauder.ubc.ca/files/css/css_KhIP81MlWctbuoZ_uaBZbvGpPX2GxDGyJHADlWgIqjM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://mybcom.sauder.ubc.ca/sites/mybcom.sauder.ubc.ca/files/css/css_f4TVcb_4ShBpOB3S0msWmwJuycMpwwpt3MJrxbUwYmc.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://mybcom.sauder.ubc.ca/sites/mybcom.sauder.ubc.ca/files/css/css_PxsPpITToy8ZnO0bJDA1TEC6bbFpGTfSWr2ZP8LuFYo.css" media="all" />
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="https://cdn.jsdelivr.net/html5shiv/3.7.3/html5shiv.js"></script>
+    <script src="https://cdn.jsdelivr.net/respond/1.4.2/respond.min.js"></script>
+  <![endif]-->
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script>window.jQuery || document.write("<script src='/profiles/panopoly/modules/contrib/jquery_update/replace/jquery/1.7/jquery.min.js'>\x3C/script>")</script>
+<script src="https://mybcom.sauder.ubc.ca/sites/mybcom.sauder.ubc.ca/files/js/js_Hfha9RCTNm8mqMDLXriIsKGMaghzs4ZaqJPLj2esi7s.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js"></script>
+<script>window.jQuery.ui || document.write("<script src='/profiles/panopoly/modules/contrib/jquery_update/replace/ui/ui/minified/jquery-ui.min.js'>\x3C/script>")</script>
+<script src="https://mybcom.sauder.ubc.ca/sites/mybcom.sauder.ubc.ca/files/js/js_6WjiFgvmHfmfHrKGHz-A0lTB6gHYOj0W5sdi01IZZqI.js"></script>
+<script>document.createElement( "picture" );</script>
+<script src="https://mybcom.sauder.ubc.ca/sites/mybcom.sauder.ubc.ca/files/js/js_y6hs-JnbUFe_NfN9PI26Ep5_nlhn8veFEq8jMr7spX0.js"></script>
+<script src="https://mybcom.sauder.ubc.ca/sites/mybcom.sauder.ubc.ca/files/js/js_zKz9UN5yNLF7Ov8shnsLWUWHnoebfsDgW3KMjSR1Leo.js"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-15962862-18", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
+<script src="https://mybcom.sauder.ubc.ca/sites/mybcom.sauder.ubc.ca/files/js/js_AL3j3d2so_qnjvdHvZCOucxYuShQUPSpqzK3eIJqF4A.js"></script>
+<script src="https://mybcom.sauder.ubc.ca/sites/mybcom.sauder.ubc.ca/files/js/js_1ZYI5rlXfIVMFn3fGsXUqrnVQu2J0H9hbjArewNxdws.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"bcom","theme_token":"oRw-OsNtp0UaNqxq61QpUIYCA7u-AeWQOivbF4t1Z0M","jquery_version":"1.7","js":{"sites\/all\/modules\/contrib\/picture\/picturefill2\/picturefill.min.js":1,"sites\/all\/modules\/contrib\/picture\/picture.min.js":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_widgets\/panopoly-widgets.js":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_widgets\/panopoly-widgets-spotlight.js":1,"sites\/all\/modules\/contrib\/addthis\/addthis.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.7.2\/jquery.min.js":1,"0":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jqueryui\/1.10.2\/jquery-ui.min.js":1,"1":1,"misc\/ajax.js":1,"profiles\/panopoly\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"2":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_images\/panopoly-images.js":1,"profiles\/panopoly\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"sites\/all\/modules\/contrib\/google_cse\/google_cse.js":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_admin\/panopoly-admin.js":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_magic\/panopoly-magic.js":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_theme\/js\/panopoly-accordion.js":1,"profiles\/panopoly\/modules\/contrib\/caption_filter\/js\/caption-filter.js":1,"sites\/mybcom.sauder.ubc.ca\/themes\/custom\/bcom\/js\/progress.js":1,"sites\/mybcom.sauder.ubc.ca\/modules\/custom\/bcom_spotlight\/js\/jquery.flexslider-min.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"profiles\/panopoly\/libraries\/jquery.imagesloaded\/jquery.imagesloaded.min.js":1,"sites\/mybcom.sauder.ubc.ca\/modules\/custom\/ubc_panel_styles\/js\/ubc_panel_styles.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"3":1,"sites\/mybcom.sauder.ubc.ca\/modules\/custom\/shortcode_ubc-master\/js\/shortcode_ubc.js":1,"sites\/all\/modules\/contrib\/colorbox_node\/colorbox_node.js":1,"sites\/mybcom.sauder.ubc.ca\/themes\/custom\/bcom\/js\/libs\/velocity\/velocity.min.js":1,"sites\/mybcom.sauder.ubc.ca\/themes\/custom\/bcom\/js\/libs\/bootstrap\/affix.js":1,"sites\/mybcom.sauder.ubc.ca\/themes\/custom\/bcom\/js\/libs\/bootstrap\/alert.js":1,"sites\/mybcom.sauder.ubc.ca\/themes\/custom\/bcom\/js\/libs\/bootstrap\/button.js":1,"sites\/mybcom.sauder.ubc.ca\/themes\/custom\/bcom\/js\/libs\/bootstrap\/dropdown.js":1,"sites\/mybcom.sauder.ubc.ca\/themes\/custom\/bcom\/js\/libs\/bootstrap\/modal.js":1,"sites\/mybcom.sauder.ubc.ca\/themes\/custom\/bcom\/js\/libs\/bootstrap\/scrollspy.js":1,"sites\/mybcom.sauder.ubc.ca\/themes\/custom\/bcom\/js\/libs\/bootstrap\/tooltip.js":1,"sites\/mybcom.sauder.ubc.ca\/themes\/custom\/bcom\/js\/libs\/bootstrap\/transition.js":1,"sites\/mybcom.sauder.ubc.ca\/themes\/custom\/bcom\/js\/libs\/bootstrap\/carousel.js":1,"sites\/mybcom.sauder.ubc.ca\/themes\/custom\/bcom\/js\/libs\/bootstrap\/popover.js":1,"sites\/mybcom.sauder.ubc.ca\/themes\/custom\/bcom\/js\/custom.js":1},"css":{"modules\/system\/system.base.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.accordion.css":1,"sites\/all\/modules\/contrib\/colorbox_node\/colorbox_node.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/google_cse\/google_cse.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_admin\/panopoly-admin.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_admin\/panopoly-admin-navbar.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_core\/css\/panopoly-dropbutton.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_magic\/css\/panopoly-magic.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_magic\/css\/panopoly-modal.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_theme\/css\/panopoly-featured.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_theme\/css\/panopoly-accordian.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_theme\/css\/panopoly-layouts.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_widgets\/panopoly-widgets.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_widgets\/panopoly-widgets-spotlight.css":1,"sites\/all\/modules\/contrib\/picture\/picture_wysiwyg.css":1,"profiles\/panopoly\/modules\/contrib\/radix_layouts\/radix_layouts.css":1,"sites\/all\/modules\/contrib\/youtube\/css\/youtube.css":1,"profiles\/panopoly\/modules\/contrib\/views\/css\/views.css":1,"profiles\/panopoly\/modules\/contrib\/caption_filter\/caption-filter.css":1,"sites\/mybcom.sauder.ubc.ca\/modules\/custom\/bcom_spotlight\/css\/bcom-spotlight.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/panopoly\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/panopoly\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/contrib\/site_map\/site_map.theme.css":1,"sites\/mybcom.sauder.ubc.ca\/themes\/custom\/bcom\/css\/bcom.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_images\/panopoly-images.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px","file_public_path":"\/sites\/mybcom.sauder.ubc.ca\/files","specificPagesDefaultValue":"admin*\nimagebrowser*\nimg_assist*\nimce*\nnode\/add\/*\nnode\/*\/edit\nprint\/*\nprintpdf\/*\nsystem\/ajax\nsystem\/ajax\/*"},"googleCSE":{"cx":"006568802404972970774:omyour_emjk","language":"","resultsWidth":600,"domain":"www.google.com","showWaterMark":true},"CToolsModal":{"modalSize":{"type":"scale","width":".9","height":".9","addWidth":0,"addHeight":0,"contentRight":25,"contentBottom":75},"modalOptions":{"opacity":".55","background-color":"#FFF"},"animationSpeed":"fast","modalTheme":"CToolsModalDialog","throbberTheme":"CToolsModalThrobber"},"panopoly_magic":{"pane_add_preview_mode":"automatic"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1},"urlIsAjaxTrusted":{"\/Sitemap":true},"colorbox_node":{"width":"600px","height":"600px"}});</script>
+  <script src="/sites/mybcom.sauder.ubc.ca/themes/custom/bcom/js/libs/modernizr.custom.2.6.2.js"></script>
+  <!-- Google tag (gtag.js) - GA4 June 2023 -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-232102MJ0N"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+    gtag('config', 'G-232102MJ0N');
+  </script>
+      <!-- Google Tag Manager (Legacy UA) Pre-2023 -->
+    <script async>
+      (function(w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+          'gtm.start': new Date().getTime(),
+          event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+          j = d.createElement(s),
+          dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src =
+          'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+      })(window, document, 'script', 'dataLayer', 'GTM-KGLJXLK');
+    </script>
+    <!-- End Google Tag Manager -->
+  </head>
+<body class="html not-front not-logged-in no-sidebars page-sitemap region-content" >
+      <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KGLJXLK" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="site-wrapper">
+  <header>
+        <div id="search" class="search-area" style="display: none;" role="search">
+      <div class="container" >
+        <div class="row">
+          <div class="col-md-6 col-md-offset-3">
+            <h5>Search myBCom</h5>
+                <div class="region region-search">
+    <section id="block-search-form" class="block block-search clearfix">
+
+      
+  <form class="google-cse form-search content-search" action="/Sitemap" method="post" id="search-block-form" accept-charset="UTF-8"><div>      <h2 class="element-invisible">Search form</h2>
+    <div id="searchlabel" class="input-group"><input title="Enter the terms you wish to search for." class="search-query form-control form-text" placeholder="Type your search keywords" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" /><span class="input-group-btn"><button type="submit" class="btn btn-default search" tabindex="-1">Search</button></span></div><button class="element-invisible btn btn-primary form-submit" id="edit-submit" name="op" value="Search" type="submit">Search</button>
+<input type="hidden" name="form_build_id" value="form-VZsURutHklpHp5sjwy5p73RXs9z464voRADM43Ov4Ow" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div></form>  
+</section> <!-- /.block -->
+  </div>
+          </div>
+        </div>
+      </div>
+    </div>
+        <div class="branding" role="banner">
+      <div class="container header">
+        <a href="http://www.sauder.ubc.ca/" target="_blank" title="Sauder home" class="sauder-logo" alt="Home">Sauder Logo</a>
+        <a href="#" class="searchtoggle btn btn-secondary alternate">Search <i class="fa fa-search"></i></a>
+                <nav class="secondary hidden-xs" role="navigation">
+          <h2 class="element-invisible">Utility menu</h2>
+          <ul class="nav nav-pills"><li class="first leaf"><a href="https://sauder-ubc-csm.symplicity.com/" target="_blank">COOL</a></li>
+<li class="leaf"><a href="http://canvas.ubc.ca">Canvas</a></li>
+<li class="leaf"><a href="http://lam.library.ubc.ca/" target="_blank">David Lam Library</a></li>
+<li class="last leaf"><a href="https://cas.id.ubc.ca/ubc-cas/login?TARGET=https%3A%2F%2Fssc.adm.ubc.ca%2Fsscportal%2Fservlets%2FSRVSSCFramework" target="_blank">SSC</a></li>
+</ul>        </nav>
+              </div>
+      <div class="site-heading">
+        <div class="container">
+          <a href="#" class="toggle-nav btn btn-tertiary hidden-md hidden-lg">Menu <i class="fa fa-bars"></i></a>
+          <a href="/" class="home-link" title="myBCom home" alt="Home"><span>myBCom</span></a>
+        </div>
+      </div>
+    </div>
+        <div class="navbar navbar-default visible-md visible-lg" role="navigation" data-spy="affix" data-offset-top="157">
+      <div class="container">
+        <nav class="navbar-collapse collapse primary-nav">
+          <h3 class="element-invisible">Main menu</h3><ul class="nav navbar-nav"><li class="menu-2595 first dropdown"><a href="/about-ubc-sauder" class="menu-2595 first dropdown">About UBC Sauder</a><ul class="dropdown-menu"><li class="menu-2545 first dropdown"><a href="/orientation" class="menu-2545 first dropdown">Orientation</a><ul class="dropdown-menu"><li class="menu-17358 first last"><a href="/orientationhiring" class="menu-17358 first last">Orientation Hiring</a></li>
+</ul></li>
+<li class="menu-2546 first dropdown"><a href="/ugo" class="menu-2546 first dropdown">Undergraduate Office</a><ul class="dropdown-menu"><li class="menu-17321 first last"><a href="/ugo/faqs" class="menu-17321 first last">Frequently asked questions</a></li>
+</ul></li>
+<li class="menu-2426 first dropdown"><a href="/clc" class="menu-2426 first dropdown">Learning Commons and Library</a><ul class="dropdown-menu"><li class="menu-2707 first"><a href="/clc/book-and-equipment-borrowing" class="menu-2707 first">Book and equipment borrowing</a></li>
+<li class="menu-2706 first"><a href="/clc/printing-and-photocopying" class="menu-2706 first">Printing and photocopying</a></li>
+<li class="menu-2554 first"><a href="/clc/study-spaces" class="menu-2554 first">Study spaces</a></li>
+</ul></li>
+<li class="menu-2547 first"><a href="/bcc" class="menu-2547 first">Business Career Centre</a></li>
+<li class="menu-2548 first"><a href="/student-initiatives-and-government" class="menu-2548 first">Student Initiatives and Government</a></li>
+<li class="menu-2549 first"><a href="/alumni-and-friends" class="menu-2549 first">Alumni and Friends</a></li>
+<li class="menu-15899 first"><a href="/ubc-sauder-parent-family-network" class="menu-15899 first">Parent &amp; Family Network</a></li>
+<li class="menu-2550 first dropdown"><a href="/specialized-learning-spaces" class="menu-2550 first dropdown">Specialized Learning Spaces</a><ul class="dropdown-menu"><li class="menu-2552 first"><a href="/specialized-learning-spaces/digital-media-lab" class="menu-2552 first">Digital Media Lab</a></li>
+<li class="menu-15363 first"><a href="/specialized-learning-spaces/leith-wheeler-investment-research-lab" class="menu-15363 first">Leith Wheeler Investment Research Lab</a></li>
+<li class="menu-2551 first"><a href="/specialized-learning-spaces/ubc-sauder-learning-labs" class="menu-2551 first">UBC Sauder Learning Labs</a></li>
+<li class="menu-2553 first"><a href="/specialized-learning-spaces/wayne-deans-investment-analysis-centre" class="menu-2553 first">Wayne Deans Investment Analysis Centre</a></li>
+</ul></li>
+</ul></li>
+<li class="menu-2661 first dropdown"><a href="/academic-success" class="menu-2661 first dropdown">Academic Success</a><ul class="dropdown-menu"><li class="menu-15103 first dropdown"><a href="/get-better-grades" class="menu-15103 first dropdown">Get Better Grades</a><ul class="dropdown-menu"><li class="menu-15315 first"><a href="/get-better-grades/pass" class="menu-15315 first">Peer Assisted Study Sessions (PASS)</a></li>
+<li class="menu-15311 first"><a href="/get-better-grades/presentation-coaching" class="menu-15311 first">Presentation Coaching</a></li>
+<li class="menu-2559 first"><a href="/get-better-grades/research-support" class="menu-2559 first">Research Support</a></li>
+<li class="menu-2557 first"><a href="/get-better-grades/communication" class="menu-2557 first">Communication Development Programs</a></li>
+<li class="menu-17361 first"><a href="/get-better-grades/math-coaching" class="menu-17361 first">Math Coaching</a></li>
+</ul></li>
+<li class="menu-2560 first"><a href="/get-advice" class="menu-2560 first">Get Advice</a></li>
+<li class="menu-2561 first dropdown"><a href="/know-my-rights-and-responsibilities" class="menu-2561 first dropdown">Know My Rights and Responsibilities</a><ul class="dropdown-menu"><li class="menu-2564 first"><a href="/academic-concession" class="menu-2564 first">Academic Concession</a></li>
+<li class="menu-2562 first"><a href="/academic-integrity" class="menu-2562 first">Academic Integrity</a></li>
+<li class="menu-2563 first"><a href="/attendance" class="menu-2563 first">Attendance</a></li>
+<li class="menu-17320 first"><a href="/statement-of-professionalism-and-code-conduct" class="menu-17320 first">Statement of Professionalism and Code of Conduct</a></li>
+</ul></li>
+<li class="menu-17353 first dropdown"><a href="https://mybcom.sauder.ubc.ca/other-academic-resources" class="menu-17353 first dropdown">Other academic resources</a><ul class="dropdown-menu"><li class="menu-17356 first"><a href="https://mybcom.sauder.ubc.ca/learning-and-studying-resources" class="menu-17356 first">Learning and Studying Resources</a></li>
+<li class="menu-17352 first"><a href="https://mybcom.sauder.ubc.ca/indigenous-student-resources" class="menu-17352 first">Indigenous student resources</a></li>
+<li class="menu-17341 first"><a href="/onlinelearning" class="menu-17341 first">BCom online learning and support</a></li>
+</ul></li>
+</ul></li>
+<li class="menu-2691 first"><a href="/health-wellness" class="menu-2691 first">Health &amp; Wellness</a></li>
+<li class="menu-2670 first dropdown"><a href="/global-reach" class="menu-2670 first dropdown">Global Reach</a><ul class="dropdown-menu"><li class="menu-2566 first"><a href="/international-exchange" class="menu-2566 first">International Exchange</a></li>
+<li class="menu-2904 first"><a href="/visiting-exchange-students" class="menu-2904 first">Coming to UBC Sauder on Exchange</a></li>
+</ul></li>
+<li class="menu-2668 first dropdown"><a href="/careers" class="menu-2668 first dropdown">Career & Experience</a><ul class="dropdown-menu"><li class="menu-17271 first dropdown"><a href="/career-%26-personal-exploration" class="menu-17271 first dropdown">Career & Personal Exploration</a><ul class="dropdown-menu"><li class="menu-17363 first"><a href="/career-experience/career-resources/personal-development-resources" class="menu-17363 first">Personal Development Resources</a></li>
+<li class="menu-17374 first"><a href="/career-experience/career-personal-exploration/career-exploration-resources" class="menu-17374 first">Career Exploration Resources</a></li>
+<li class="menu-2582 first"><a href="/what-can-i-do-with-my-degree" class="menu-2582 first">What Can I Do With My Degree?</a></li>
+<li class="menu-17279 first"><a href="/ubc-sauder-alumni-job-data" class="menu-17279 first">UBC Sauder Alumni Job Data</a></li>
+<li class="menu-17340 first"><a href="/career-experience/my-unique-career-journey" class="menu-17340 first">Navigate Your Career Journey</a></li>
+<li class="menu-2578 first"><a href="/career-experience/career-options/graduate-studies" class="menu-2578 first">Graduate Studies</a></li>
+</ul></li>
+<li class="menu-17362 first dropdown"><a href="/career-experience/gain-experience" class="menu-17362 first dropdown">Gain Experience</a><ul class="dropdown-menu"><li class="menu-17364 first"><a href="/career-experience/gain-experience/work-and-volunteer-experience" class="menu-17364 first">Work and Volunteer Experience</a></li>
+<li class="menu-17286 first"><a href="/career-experience/mentorship-specialty-programs" class="menu-17286 first">Mentorship &amp; Specialty Programs</a></li>
+<li class="menu-17375 first"><a href="/career-experience/co-op-program" class="menu-17375 first">Co-op Program</a></li>
+<li class="menu-15083 first"><a href="/career-experience/career-resources/job-search-resources" class="menu-15083 first">Job Search Resources</a></li>
+<li class="menu-17376 first"><a href="/career-experience/career-resources/cool-career-platform" class="menu-17376 first">COOL Career Platform</a></li>
+<li class="menu-17270 first"><a href="/career-experience/where-can-i-work%3F" class="menu-17270 first">Where can I work?</a></li>
+</ul></li>
+<li class="menu-17371 first dropdown"><a href="/career-experience/networking-events" class="menu-17371 first dropdown">Networking & Events</a><ul class="dropdown-menu"><li class="menu-17372 first"><a href="/career-experience/networking-events/networking-resources" class="menu-17372 first">Networking Resources</a></li>
+<li class="menu-17277 first"><a href="/career-experience/career-resources/linkedin-resources" class="menu-17277 first">LinkedIn Resources</a></li>
+<li class="menu-2575 first"><a href="/career-experience/industry-events-%26-workshops" class="menu-2575 first">Industry Events &amp; Workshop</a></li>
+</ul></li>
+<li class="menu-17368 first dropdown"><a href="/career-experience/resumes-cover-letters" class="menu-17368 first dropdown">Resumes & Cover Letters</a><ul class="dropdown-menu"><li class="menu-17369 first"><a href="/career-experience/resumes-cover-letters/resume-resources" class="menu-17369 first">Resume Resources</a></li>
+<li class="menu-17370 first"><a href="/career-experience/resumes-cover-letters/cover-letter-resources" class="menu-17370 first">Cover Letter Resources</a></li>
+</ul></li>
+<li class="menu-17365 first dropdown"><a href="/career-experience/job-interviews" class="menu-17365 first dropdown">Job Interviews</a><ul class="dropdown-menu"><li class="menu-17366 first"><a href="/career-experience/job-interviews/interview-prep-resources" class="menu-17366 first">Interview Prep Resources</a></li>
+<li class="menu-17316 first"><a href="/career-experience/career-resources/case-interview-resources" class="menu-17316 first">Case Interview Resources</a></li>
+<li class="menu-17373 first"><a href="/career-experience/job-interviews/negotiation-resources-0" class="menu-17373 first">Negotiation Resources</a></li>
+</ul></li>
+<li class="menu-17276 first"><a href="/career-experience/career-resources/cool-career-platform" class="menu-17276 first">COOL Career Platform</a></li>
+<li class="menu-17284 first dropdown"><a href="/career-experience/career-coaching" class="menu-17284 first dropdown">Career Coaching & Advising</a><ul class="dropdown-menu"><li class="menu-17287 first"><a href="/career-experience/career-coaching/bcom-career-strategists" class="menu-17287 first">BCom Career Strategists</a></li>
+<li class="menu-17245 first"><a href="/career-experience/career-coaching/career-peer-advisors" class="menu-17245 first">Career Peer Advisors</a></li>
+<li class="menu-17290 first"><a href="/career-experience/career-coaching/co-op-managers" class="menu-17290 first">Co-op Managers</a></li>
+</ul></li>
+<li class="menu-2581 first dropdown"><a href="/career-experience/co-op-program" class="menu-2581 first dropdown">Co-op Program</a><ul class="dropdown-menu"><li class="menu-2609 first"><a href="/career-experience/co-op-program/why-co-op" class="menu-2609 first">Why Co-op?</a></li>
+<li class="menu-2610 first"><a href="/career-experience/co-op-program/my-co-op-experience" class="menu-2610 first">My Co-op Experience</a></li>
+<li class="menu-2611 first"><a href="/career-experience/co-op-program/requirements-%26-how-to-apply" class="menu-2611 first">Requirements &amp; How to Apply</a></li>
+<li class="menu-17329 first"><a href="/career-experience/co-op-program/co-op-key-facts" class="menu-17329 first">Co-op Key Facts</a></li>
+<li class="menu-2612 first"><a href="/career-experience/co-op-program/faqs" class="menu-2612 first">Frequently Asked Questions</a></li>
+<li class="menu-17330 first"><a href="/career-experience/co-op-program/co-op-employers" class="menu-17330 first">Co-op Employers</a></li>
+</ul></li>
+</ul></li>
+<li class="menu-2669 first dropdown"><a href="/courses-money-and-enrolment" class="menu-2669 first dropdown">Courses, Money & Enrolment</a><ul class="dropdown-menu"><li class="menu-2693 first"><a href="/courses-money-and-enrolment/dates-and-deadlines" class="menu-2693 first">Dates and Deadlines</a></li>
+<li class="menu-2624 first dropdown"><a href="/courses-money-and-enrolment/program-requirements" class="menu-2624 first dropdown">Program Requirements</a><ul class="dropdown-menu"><li class="menu-2633 first"><a href="/courses-money-and-enrolment/program-requirements/general-program-requirements" class="menu-2633 first">General Program Requirements</a></li>
+<li class="menu-2634 first"><a href="/bucs" class="menu-2634 first">Combined Major in Business and Computer Science</a></li>
+<li class="menu-17344 first"><a href="/hku-dual-degree-program" class="menu-17344 first">UBC Sauder – HKU Dual Degree Program</a></li>
+</ul></li>
+<li class="menu-2625 first dropdown"><a href="/courses-money-and-enrolment/courses-and-registration" class="menu-2625 first dropdown">Courses and Registration</a><ul class="dropdown-menu"><li class="menu-10591 first"><a href="/courses-money-and-enrolment/courses" class="menu-10591 first">Course Search</a></li>
+<li class="menu-14879 first"><a href="/courses-money-enrolment/courses-and-registration/registering-for-courses" class="menu-14879 first">Registering for Courses</a></li>
+<li class="menu-2638 first"><a href="/courses-money-and-enrolment/courses-and-registration/summer-courses" class="menu-2638 first">Summer Courses</a></li>
+<li class="menu-2637 first"><a href="/courses-money-and-enrolment/courses-and-registration/registration-assistance" class="menu-2637 first">Registration Assistance</a></li>
+<li class="menu-17266 first"><a href="/letters" class="menu-17266 first">Requesting Documentation</a></li>
+<li class="menu-17332 first"><a href="/bcom-program-planning-tool" class="menu-17332 first">BCom Course Planning Worksheets</a></li>
+<li class="menu-17378 first"><a href="/courses-money-enrolment/courses-and-registration/taking-courses-outside-ubc" class="menu-17378 first">Taking Courses Outside of UBC</a></li>
+</ul></li>
+<li class="menu-2626 first dropdown"><a href="/options" class="menu-2626 first dropdown">Options</a><ul class="dropdown-menu"><li class="menu-15859 first"><a href="/courses-money-enrolment/options/choosing-your-option" class="menu-15859 first">How to Choose Your Option</a></li>
+<li class="menu-14873 first"><a href="/courses-money-enrolment/options/registering-your-option" class="menu-14873 first">Registering for Your Option</a></li>
+<li class="menu-14875 first"><a href="/option-waitlist" class="menu-14875 first">Option Waitlist</a></li>
+<li class="menu-14877 first"><a href="/courses-money-enrolment/options/double-options" class="menu-14877 first">Double Options</a></li>
+<li class="menu-2639 first"><a href="/courses-money-enrolment/options/accounting" class="menu-2639 first">Accounting</a></li>
+<li class="menu-2640 first"><a href="/courses-money-enrolment/options/business-technology-management" class="menu-2640 first">Business Technology Management</a></li>
+<li class="menu-2641 first"><a href="/courses-money-enrolment/options/entrepreneurship" class="menu-2641 first">Entrepreneurship</a></li>
+<li class="menu-2642 first"><a href="/courses-money-enrolment/options/finance" class="menu-2642 first">Finance</a></li>
+<li class="menu-17334 first"><a href="/early-start-to-the-finance-option" class="menu-17334 first">Early Start to the Finance Option</a></li>
+<li class="menu-2643 first"><a href="/courses-money-enrolment/options/general-business-management" class="menu-2643 first">General Business Management</a></li>
+<li class="menu-2644 first"><a href="/courses-money-enrolment/options/global-supply-chain-and-logistics-management" class="menu-2644 first">Global Supply Chain and Logistics Management</a></li>
+<li class="menu-2645 first"><a href="/courses-money-enrolment/options/international-business" class="menu-2645 first">International Business</a></li>
+<li class="menu-2646 first"><a href="/courses-money-enrolment/options/marketing" class="menu-2646 first">Marketing</a></li>
+<li class="menu-2649 first"><a href="/courses-money-enrolment/options/transportation-and-logistics" class="menu-2649 first">Operations and Logistics</a></li>
+<li class="menu-2647 first"><a href="/courses-money-enrolment/options/organizational-behaviour-and-human-resources" class="menu-2647 first">Organizational Behaviour and Human Resources</a></li>
+<li class="menu-2648 first"><a href="/courses-money-enrolment/options/real-estate" class="menu-2648 first">Real Estate</a></li>
+</ul></li>
+<li class="menu-2627 first"><a href="/elective-requirements" class="menu-2627 first">Elective Requirements</a></li>
+<li class="menu-2628 first dropdown"><a href="/courses-money-and-enrolment/exams-and-grades" class="menu-2628 first dropdown">Exams and Grades</a><ul class="dropdown-menu"><li class="menu-2654 first"><a href="/courses-money-and-enrolment/exams-and-grades/exams" class="menu-2654 first">Exams</a></li>
+<li class="menu-2651 first"><a href="/courses-money-and-enrolment/exams-and-grades/grades" class="menu-2651 first">Grades</a></li>
+<li class="menu-2652 first"><a href="/courses-money-and-enrolment/exams-and-grades/promotion-requirements" class="menu-2652 first">Continuation and Promotion</a></li>
+<li class="menu-2653 first"><a href="/courses-money-and-enrolment/exams-and-grades/academic-honours" class="menu-2653 first">Academic Honours</a></li>
+<li class="menu-17379 first"><a href="/courses-money-and-enrolment/exams-and-grades/campus-closures" class="menu-17379 first">Campus Closures</a></li>
+</ul></li>
+<li class="menu-2629 first dropdown"><a href="/courses-money-and-enrolment/specialized-academic-opportunities" class="menu-2629 first dropdown">Specialized Academic Opportunities</a><ul class="dropdown-menu"><li class="menu-17355 first"><a href="https://www.sauder.ubc.ca/swift" class="menu-17355 first">UBC SWIFT: UBC Sauder Women in Finance Training</a></li>
+<li class="menu-2655 first"><a href="/csp" class="menu-2655 first">Commerce Scholars Program</a></li>
+<li class="menu-17357 first"><a href="/public-speaking-competition" class="menu-17357 first">UBC Sauder Public Speaking Competition</a></li>
+<li class="menu-2657 first"><a href="/courses-money-and-enrolment/specialized-academic-opportunities/ubco-cross-campus-mobility" class="menu-2657 first">UBCO Cross Campus Mobility</a></li>
+</ul></li>
+<li class="menu-2630 first dropdown"><a href="/courses-money-and-enrolment/minors-and-concentrations" class="menu-2630 first dropdown">Minors and Concentrations</a><ul class="dropdown-menu"><li class="menu-2658 first"><a href="/courses-money-and-enrolment/minors-and-concentrations/minor-arts-or-science" class="menu-2658 first">Minor in Arts or Science</a></li>
+<li class="menu-2659 first"><a href="/courses-money-and-enrolment/minors-and-concentrations/minor-commerce" class="menu-2659 first">Minor in Commerce</a></li>
+<li class="menu-17264 first"><a href="/business-analytics-concentration" class="menu-17264 first">Business Analytics Concentration</a></li>
+<li class="menu-17265 first"><a href="/business-law-concentration" class="menu-17265 first">Business Law Concentration</a></li>
+<li class="menu-17327 first"><a href="/international-business-concentration" class="menu-17327 first">International Business Concentration</a></li>
+<li class="menu-2660 first"><a href="/sustainability-and-social-impact-concentration" class="menu-2660 first">Sustainability and Social Impact Concentration</a></li>
+</ul></li>
+<li class="menu-2631 first dropdown"><a href="/courses-money-and-enrolment/scholarships-funding" class="menu-2631 first dropdown">Scholarships and Funding</a><ul class="dropdown-menu"><li class="menu-10577 first"><a href="/courses-money-and-enrolment/scholarships" class="menu-10577 first">Scholarship Search</a></li>
+<li class="menu-17241 first"><a href="/ugogrant" class="menu-17241 first">UGO Student Experience Grants</a></li>
+</ul></li>
+<li class="menu-2632 first"><a href="/courses-money-enrolment/graduation" class="menu-2632 first">Graduation</a></li>
+</ul></li>
+<li class="menu-17247 first"><a href="https://mybcom.sauder.ubc.ca/support" class="menu-17247 first">Support</a></li>
+</ul>        </nav><!--/.nav-collapse -->
+      </div>
+    </div>
+      </header>
+
+  <div class="main-container container">
+    <ol class="breadcrumb"><li class="breadcrumb-0"><a href="/">Home</a></li><li class="active">Site map</li></ol>        <div class="sections row" role="main">
+      <section class="main-content col-sm-12">
+        <a id="main-content"></a>
+                          <h1 class="page-title">Site map</h1>
+                                                                          
+
+<div id="site-map">
+  
+  
+  
+  
+  
+      <div class="site-map-menus">
+      <div class="site-map-box-menu site-map-box-menu-main-menu site-map-box"><h2 class="title">Main menu</h2><div class="content"><ul class="site-map-menu"><li class="first expanded"><a href="/about-ubc-sauder">About UBC Sauder</a><ul class="site-map-menu"><li class="first expanded"><a href="/orientation">Orientation</a><ul class="site-map-menu"><li class="first last leaf"><a href="/orientationhiring">Orientation Hiring</a></li>
+</ul></li>
+<li class="expanded"><a href="/ugo">Undergraduate Office</a><ul class="site-map-menu"><li class="first last leaf"><a href="/ugo/faqs">Frequently asked questions</a></li>
+</ul></li>
+<li class="expanded"><a href="/clc">Learning Commons and Library</a><ul class="site-map-menu"><li class="first leaf"><a href="/clc/book-and-equipment-borrowing">Book and equipment borrowing</a></li>
+<li class="leaf"><a href="/clc/printing-and-photocopying">Printing and photocopying</a></li>
+<li class="last leaf"><a href="/clc/study-spaces">Study spaces</a></li>
+</ul></li>
+<li class="leaf"><a href="/bcc">Business Career Centre</a></li>
+<li class="leaf"><a href="/student-initiatives-and-government">Student Initiatives and Government</a></li>
+<li class="leaf"><a href="/alumni-and-friends">Alumni and Friends</a></li>
+<li class="leaf"><a href="/ubc-sauder-parent-family-network">Parent &amp; Family Network</a></li>
+<li class="last expanded"><a href="/specialized-learning-spaces">Specialized Learning Spaces</a><ul class="site-map-menu"><li class="first leaf"><a href="/specialized-learning-spaces/digital-media-lab">Digital Media Lab</a></li>
+<li class="leaf"><a href="/specialized-learning-spaces/leith-wheeler-investment-research-lab">Leith Wheeler Investment Research Lab</a></li>
+<li class="leaf"><a href="/specialized-learning-spaces/ubc-sauder-learning-labs">UBC Sauder Learning Labs</a></li>
+<li class="last leaf"><a href="/specialized-learning-spaces/wayne-deans-investment-analysis-centre">Wayne Deans Investment Analysis Centre</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded"><a href="/academic-success">Academic Success</a><ul class="site-map-menu"><li class="first expanded"><a href="/get-better-grades">Get Better Grades</a><ul class="site-map-menu"><li class="first leaf"><a href="/get-better-grades/pass" title="PASS">Peer Assisted Study Sessions (PASS)</a></li>
+<li class="leaf"><a href="/get-better-grades/presentation-coaching">Presentation Coaching</a></li>
+<li class="leaf"><a href="/get-better-grades/research-support">Research Support</a></li>
+<li class="leaf"><a href="/get-better-grades/communication">Communication Development Programs</a></li>
+<li class="last leaf"><a href="/get-better-grades/math-coaching">Math Coaching</a></li>
+</ul></li>
+<li class="leaf"><a href="/get-advice">Get Advice</a></li>
+<li class="expanded"><a href="/know-my-rights-and-responsibilities">Know My Rights and Responsibilities</a><ul class="site-map-menu"><li class="first leaf"><a href="/academic-concession">Academic Concession</a></li>
+<li class="leaf"><a href="/academic-integrity">Academic Integrity</a></li>
+<li class="leaf"><a href="/attendance">Attendance</a></li>
+<li class="last leaf"><a href="/statement-of-professionalism-and-code-conduct">Statement of Professionalism and Code of Conduct</a></li>
+</ul></li>
+<li class="last expanded"><a href="https://mybcom.sauder.ubc.ca/other-academic-resources">Other academic resources</a><ul class="site-map-menu"><li class="first leaf"><a href="https://mybcom.sauder.ubc.ca/learning-and-studying-resources">Learning and Studying Resources</a></li>
+<li class="leaf"><a href="https://mybcom.sauder.ubc.ca/indigenous-student-resources">Indigenous student resources</a></li>
+<li class="last leaf"><a href="/onlinelearning">BCom online learning and support</a></li>
+</ul></li>
+</ul></li>
+<li class="leaf"><a href="/health-wellness">Health &amp; Wellness</a></li>
+<li class="expanded"><a href="/global-reach">Global Reach</a><ul class="site-map-menu"><li class="first leaf"><a href="/international-exchange">International Exchange</a></li>
+<li class="last leaf"><a href="/visiting-exchange-students">Coming to UBC Sauder on Exchange</a></li>
+</ul></li>
+<li class="expanded"><a href="/careers">Career &amp; Experience</a><ul class="site-map-menu"><li class="first expanded"><a href="/career-%26-personal-exploration">Career &amp; Personal Exploration</a><ul class="site-map-menu"><li class="first leaf"><a href="/career-experience/career-resources/personal-development-resources">Personal Development Resources</a></li>
+<li class="leaf"><a href="/career-experience/career-personal-exploration/career-exploration-resources">Career Exploration Resources</a></li>
+<li class="expanded"><a href="/what-can-i-do-with-my-degree">What Can I Do With My Degree?</a><ul class="site-map-menu"><li class="first leaf"><a href="/careers/accounting">Careers in Accounting</a></li>
+<li class="leaf"><a href="/careers/business-technology-management">Careers in Business Technology</a></li>
+<li class="leaf"><a href="/careers/consulting">Careers in Consulting</a></li>
+<li class="leaf"><a href="/careers/entrepreneurship">Careers in Entrepreneurship</a></li>
+<li class="leaf"><a href="/careers/finance">Careers in Finance</a></li>
+<li class="leaf"><a href="/careers/general-business">Careers in General Business</a></li>
+<li class="leaf"><a href="/careers/human-resources">Careers in Human Resources</a></li>
+<li class="leaf"><a href="/careers/marketing">Careers in Marketing</a></li>
+<li class="leaf"><a href="/careers/operations-and-logistics">Careers in Operations and Logistics</a></li>
+<li class="last leaf"><a href="/careers/real-estate">Careers in Real Estate</a></li>
+</ul></li>
+<li class="leaf"><a href="/ubc-sauder-alumni-job-data">UBC Sauder Alumni Job Data</a></li>
+<li class="expanded"><a href="/career-experience/my-unique-career-journey">Navigate Your Career Journey</a><ul class="site-map-menu"><li class="first leaf"><a href="/know_yourself">Know Yourself</a></li>
+<li class="leaf"><a href="/tell-your-story">Tell Your Story</a></li>
+<li class="leaf"><a href="/explore_career_opportunities">Explore Career Opportunities</a></li>
+<li class="last leaf"><a href="/learn_through_experience">Learn Through Experience</a></li>
+</ul></li>
+<li class="last leaf"><a href="/career-experience/career-options/graduate-studies">Graduate Studies</a></li>
+</ul></li>
+<li class="expanded"><a href="/career-experience/gain-experience">Gain Experience</a><ul class="site-map-menu"><li class="first leaf"><a href="/career-experience/gain-experience/work-and-volunteer-experience">Work and Volunteer Experience</a></li>
+<li class="expanded"><a href="/career-experience/mentorship-specialty-programs">Mentorship &amp; Specialty Programs</a><ul class="site-map-menu"><li class="first leaf"><a href="/career-experience/mentorship-specialty-programs/brand-management-mentorship-program">Brand Management Mentorship Program</a></li>
+<li class="leaf"><a href="/career-experience/mentorship-specialty-programs/capital-markets-training-program">Capital Markets Training Program</a></li>
+<li class="leaf"><a href="/career-experience/mentorship-specialty-programs/commerce-scholars-program">Commerce Scholars Program</a></li>
+<li class="leaf"><a href="/career-experience/mentorship-specialty-programs/executive-mentorship-program">Executive Mentorship Program</a></li>
+<li class="leaf"><a href="/career-experience/mentorship-specialty-programs/finance-mentorship-program">Finance Mentorship Program</a></li>
+<li class="leaf"><a href="https://www.sauder.ubc.ca/thought-leadership/divisions/finance/pmf-program" target="_blank">Portfolio Management Foundation</a></li>
+<li class="leaf"><a href="/career-experience/mentorship-specialty-programs/real-estate-internship-mentorship-program">Real Estate Internship &amp; Mentorship Program</a></li>
+<li class="leaf"><a href="/career-experience/mentorship-specialty-programs/strategy-consulting-mentorship-program">Strategy Consulting Mentorship Program</a></li>
+<li class="last leaf"><a href="https://www.sauder.ubc.ca/swift" target="_blank">UBC SWIFT: UBC Sauder Women in Finance Training</a></li>
+</ul></li>
+<li class="leaf"><a href="/career-experience/co-op-program">Co-op Program</a></li>
+<li class="leaf"><a href="/career-experience/career-resources/job-search-resources">Job Search Resources</a></li>
+<li class="leaf"><a href="/career-experience/career-resources/cool-career-platform">COOL Career Platform</a></li>
+<li class="last expanded"><a href="/career-experience/where-can-i-work%3F">Where can I work?</a><ul class="site-map-menu"><li class="first last leaf"><a href="https://mybcom.sauder.ubc.ca/courses-money-enrolment/options/how-choose-your-option">Choose your option</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded"><a href="/career-experience/networking-events">Networking &amp; Events</a><ul class="site-map-menu"><li class="first leaf"><a href="/career-experience/networking-events/networking-resources">Networking Resources</a></li>
+<li class="leaf"><a href="/career-experience/career-resources/linkedin-resources">LinkedIn Resources</a></li>
+<li class="last leaf"><a href="/career-experience/industry-events-%26-workshops">Industry Events &amp; Workshop</a></li>
+</ul></li>
+<li class="expanded"><a href="/career-experience/resumes-cover-letters">Resumes &amp; Cover Letters</a><ul class="site-map-menu"><li class="first leaf"><a href="/career-experience/resumes-cover-letters/resume-resources">Resume Resources</a></li>
+<li class="last leaf"><a href="/career-experience/resumes-cover-letters/cover-letter-resources">Cover Letter Resources</a></li>
+</ul></li>
+<li class="expanded"><a href="/career-experience/job-interviews">Job Interviews</a><ul class="site-map-menu"><li class="first leaf"><a href="/career-experience/job-interviews/interview-prep-resources">Interview Prep Resources</a></li>
+<li class="leaf"><a href="/career-experience/career-resources/case-interview-resources">Case Interview Resources</a></li>
+<li class="last leaf"><a href="/career-experience/job-interviews/negotiation-resources-0">Negotiation Resources</a></li>
+</ul></li>
+<li class="leaf"><a href="/career-experience/career-resources/cool-career-platform">COOL Career Platform</a></li>
+<li class="expanded"><a href="/career-experience/career-coaching">Career Coaching &amp; Advising</a><ul class="site-map-menu"><li class="first leaf"><a href="/career-experience/career-coaching/bcom-career-strategists" name="BCom Career Managers">BCom Career Strategists</a></li>
+<li class="leaf"><a href="/career-experience/career-coaching/career-peer-advisors">Career Peer Advisors</a></li>
+<li class="last leaf"><a href="/career-experience/career-coaching/co-op-managers" title="Co-op Managers">Co-op Managers</a></li>
+</ul></li>
+<li class="last expanded"><a href="/career-experience/co-op-program">Co-op Program</a><ul class="site-map-menu"><li class="first leaf"><a href="/career-experience/co-op-program/why-co-op">Why Co-op?</a></li>
+<li class="leaf"><a href="/career-experience/co-op-program/my-co-op-experience">My Co-op Experience</a></li>
+<li class="leaf"><a href="/career-experience/co-op-program/requirements-%26-how-to-apply">Requirements &amp; How to Apply</a></li>
+<li class="leaf"><a href="/career-experience/co-op-program/co-op-key-facts">Co-op Key Facts</a></li>
+<li class="leaf"><a href="/career-experience/co-op-program/faqs">Frequently Asked Questions</a></li>
+<li class="last leaf"><a href="/career-experience/co-op-program/co-op-employers">Co-op Employers</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded"><a href="/courses-money-and-enrolment">Courses, Money &amp; Enrolment</a><ul class="site-map-menu"><li class="first leaf"><a href="/courses-money-and-enrolment/dates-and-deadlines">Dates and Deadlines</a></li>
+<li class="expanded"><a href="/courses-money-and-enrolment/program-requirements">Program Requirements</a><ul class="site-map-menu"><li class="first leaf"><a href="/courses-money-and-enrolment/program-requirements/general-program-requirements">General Program Requirements</a></li>
+<li class="leaf"><a href="/bucs">Combined Major in Business and Computer Science</a></li>
+<li class="last leaf"><a href="/hku-dual-degree-program">UBC Sauder – HKU Dual Degree Program</a></li>
+</ul></li>
+<li class="expanded"><a href="/courses-money-and-enrolment/courses-and-registration">Courses and Registration</a><ul class="site-map-menu"><li class="first leaf"><a href="/courses-money-and-enrolment/courses">Course Search</a></li>
+<li class="leaf"><a href="/courses-money-enrolment/courses-and-registration/registering-for-courses">Registering for Courses</a></li>
+<li class="leaf"><a href="/courses-money-and-enrolment/courses-and-registration/summer-courses">Summer Courses</a></li>
+<li class="leaf"><a href="/courses-money-and-enrolment/courses-and-registration/registration-assistance">Registration Assistance</a></li>
+<li class="leaf"><a href="/letters">Requesting Documentation</a></li>
+<li class="leaf"><a href="/bcom-program-planning-tool">BCom Course Planning Worksheets</a></li>
+<li class="last leaf"><a href="/courses-money-enrolment/courses-and-registration/taking-courses-outside-ubc">Taking Courses Outside of UBC</a></li>
+</ul></li>
+<li class="expanded"><a href="/options">Options</a><ul class="site-map-menu"><li class="first leaf"><a href="/courses-money-enrolment/options/choosing-your-option">How to Choose Your Option</a></li>
+<li class="leaf"><a href="/courses-money-enrolment/options/registering-your-option">Registering for Your Option</a></li>
+<li class="leaf"><a href="/option-waitlist">Option Waitlist</a></li>
+<li class="leaf"><a href="/courses-money-enrolment/options/double-options">Double Options</a></li>
+<li class="leaf"><a href="/courses-money-enrolment/options/accounting">Accounting</a></li>
+<li class="leaf"><a href="/courses-money-enrolment/options/business-technology-management">Business Technology Management</a></li>
+<li class="leaf"><a href="/courses-money-enrolment/options/entrepreneurship">Entrepreneurship</a></li>
+<li class="leaf"><a href="/courses-money-enrolment/options/finance">Finance</a></li>
+<li class="leaf"><a href="/early-start-to-the-finance-option">Early Start to the Finance Option</a></li>
+<li class="leaf"><a href="/courses-money-enrolment/options/general-business-management">General Business Management</a></li>
+<li class="leaf"><a href="/courses-money-enrolment/options/global-supply-chain-and-logistics-management">Global Supply Chain and Logistics Management</a></li>
+<li class="leaf"><a href="/courses-money-enrolment/options/international-business">International Business</a></li>
+<li class="leaf"><a href="/courses-money-enrolment/options/marketing">Marketing</a></li>
+<li class="leaf"><a href="/courses-money-enrolment/options/transportation-and-logistics">Operations and Logistics</a></li>
+<li class="leaf"><a href="/courses-money-enrolment/options/organizational-behaviour-and-human-resources">Organizational Behaviour and Human Resources</a></li>
+<li class="last leaf"><a href="/courses-money-enrolment/options/real-estate">Real Estate</a></li>
+</ul></li>
+<li class="leaf"><a href="/elective-requirements">Elective Requirements</a></li>
+<li class="expanded"><a href="/courses-money-and-enrolment/exams-and-grades">Exams and Grades</a><ul class="site-map-menu"><li class="first leaf"><a href="/courses-money-and-enrolment/exams-and-grades/exams">Exams</a></li>
+<li class="leaf"><a href="/courses-money-and-enrolment/exams-and-grades/grades">Grades</a></li>
+<li class="leaf"><a href="/courses-money-and-enrolment/exams-and-grades/promotion-requirements">Continuation and Promotion</a></li>
+<li class="leaf"><a href="/courses-money-and-enrolment/exams-and-grades/academic-honours">Academic Honours</a></li>
+<li class="last leaf"><a href="/courses-money-and-enrolment/exams-and-grades/campus-closures">Campus Closures</a></li>
+</ul></li>
+<li class="expanded"><a href="/courses-money-and-enrolment/specialized-academic-opportunities">Specialized Academic Opportunities</a><ul class="site-map-menu"><li class="first leaf"><a href="https://www.sauder.ubc.ca/swift" target="_blank">UBC SWIFT: UBC Sauder Women in Finance Training</a></li>
+<li class="leaf"><a href="/csp">Commerce Scholars Program</a></li>
+<li class="leaf"><a href="/public-speaking-competition">UBC Sauder Public Speaking Competition</a></li>
+<li class="last leaf"><a href="/courses-money-and-enrolment/specialized-academic-opportunities/ubco-cross-campus-mobility">UBCO Cross Campus Mobility</a></li>
+</ul></li>
+<li class="expanded"><a href="/courses-money-and-enrolment/minors-and-concentrations">Minors and Concentrations</a><ul class="site-map-menu"><li class="first leaf"><a href="/courses-money-and-enrolment/minors-and-concentrations/minor-arts-or-science">Minor in Arts or Science</a></li>
+<li class="leaf"><a href="/courses-money-and-enrolment/minors-and-concentrations/minor-commerce">Minor in Commerce</a></li>
+<li class="leaf"><a href="/business-analytics-concentration">Business Analytics Concentration</a></li>
+<li class="leaf"><a href="/business-law-concentration">Business Law Concentration</a></li>
+<li class="leaf"><a href="/international-business-concentration">International Business Concentration</a></li>
+<li class="last leaf"><a href="/sustainability-and-social-impact-concentration">Sustainability and Social Impact Concentration</a></li>
+</ul></li>
+<li class="expanded"><a href="/courses-money-and-enrolment/scholarships-funding">Scholarships and Funding</a><ul class="site-map-menu"><li class="first leaf"><a href="/courses-money-and-enrolment/scholarships">Scholarship Search</a></li>
+<li class="last leaf"><a href="/ugogrant">UGO Student Experience Grants</a></li>
+</ul></li>
+<li class="last leaf"><a href="/courses-money-enrolment/graduation">Graduation</a></li>
+</ul></li>
+<li class="last leaf"><a href="https://mybcom.sauder.ubc.ca/support">Support</a></li>
+</ul></div></div>    </div>
+  
+  
+  
+  </div>
+      </section>
+
+      
+          </div>
+    <hr />
+    <div class="container text-right">
+      <p><a href="#" class="totop btn btn-text">Back To Top <i class="sauder-icon-arrow-up"></i></a></p>
+    </div>
+  </div>
+
+  <footer role="contentinfo">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-10">
+          <div class="row links">
+            <div class="col-xs-1 crest"><a href="https://ubc.ca">The University of British Columbia</a></div>
+                          <nav class="footer-nav">
+                <ul class="navbar-footer"><li class="first expanded parent col-sm-3"><h4><a href="/">myBCom</a></h4><ul class="menu nav"><li class="first leaf"><a href="/about-ubc-sauder">About UBC Sauder</a></li>
+<li class="leaf"><a href="/academic-success">Academic Success</a></li>
+<li class="leaf"><a href="/health-wellness">Health &amp; Wellness</a></li>
+<li class="leaf"><a href="/global-reach">Global Reach</a></li>
+<li class="leaf"><a href="/careers">Career &amp; Experience</a></li>
+<li class="last leaf"><a href="/courses-money-and-enrolment">Courses, Money &amp; Enrolment</a></li>
+</ul></li>
+<li class="expanded parent col-sm-3"><h4><span class="nolink" tabindex="0">Quicklinks</span></h4><ul class="menu nav"><li class="first leaf"><a href="http://www.sauder.ubc.ca/bcom">Admissions for prospective students</a></li>
+<li class="leaf"><a href="http://www.ubc.ca/">University of British Columbia</a></li>
+<li class="leaf"><a href="http://students.ubc.ca/">UBC Student Services</a></li>
+<li class="leaf"><a href="http://lam.library.ubc.ca/">David Lam Library</a></li>
+<li class="leaf"><a href="https://www.ubc.ca/emergency/">Emergency procedures and alerts</a></li>
+<li class="last leaf"><a href="http://students.ubc.ca/campus/safety" target="_blank">Safety on campus</a></li>
+</ul></li>
+<li class="last expanded parent col-sm-3"><h4><span class="nolink" tabindex="0">Feedback</span></h4><ul class="menu nav"><li class="first last leaf"><a href="mailto:bcomquestions@sauder.ubc.ca">See a typo or have a suggestion to improve the myBCom site? Email bcomquestions@sauder.ubc.ca</a></li>
+</ul></li>
+</ul>              </nav>
+                      </div>
+        </div>
+        <div class="col-xs-2">
+                      <div class="follow">
+              <div class="fieldable-panels-pane">
+    
+  <section class="field field-name-field-social-embed field-type-text-long field-label-hidden">
+    <h4>Follow UBC Sauder on:</h4>
+<ul>
+<li><a href="https://twitter.com/UBCSauderSchool" target="_blank"><i class="fa fa-twitter"></i> Twitter</a></li>
+<li><a href="https://www.facebook.com/SauderSchool" target="_blank"><i class="fa fa-facebook-square"></i> Facebook</a></li>
+<li><a href="https://ca.linkedin.com/school/ubcsauder/" target="_blank"><i class="fa fa-linkedin-square"></i> LinkedIn</a></li>
+<li><a href="https://www.youtube.com/user/sauderschoolUBC" target="_blank"><i class="fa fa-youtube-play"></i> YouTube</a></li>
+<li><a href="https://instagram.com/ubcsauderschool/" target="_blank"><i class="fa fa-instagram"></i> Instagram</a></li>
+</ul>
+  </section>
+</div>
+            </div>
+                  </div>
+      </div>
+    </div>
+    <div class="address">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-10">
+            <div class="fieldable-panels-pane">
+    <div class="field field-name-field-basic-text-text field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>UBC Sauder School of Business, 2053 Main Mall, Vancouver, BC Canada V6T 1Z2 | +1 604.822.8333 | <a href="mailto:bcomquestions@sauder.ubc.ca">email</a> | <a href="/Sitemap">site map</a> | <a href="http://www.ubc.ca/site/legal.html">© Copyright UBC</a></p></div></div></div></div>
+          </div>
+        </div>
+      </div> <!-- /container -->
+    </div>
+  </footer>
+
+</div> <!-- /site-wrapper -->
+
+<div id="mobile-menu">
+  <a href="#" class="toggle-nav btn btn-block btn-primary">Hide Menu <i class="fa fa-times-circle"></i></a>
+  <h3>Explore myBCom</h3>
+  <nav class="mobile-navigation" role="navigation">
+      <h3 class="element-invisible">Mobile menu</h3><ul class="nav navbar-nav"><li class="menu-2595 first with-dropdown"><div class="btn-group btn-block" role="group"><button class="btn btn-mobilenav dropdown-toggle col-ss-2" aria-expanded="false"><span class="fa fa-plus-circle"></span></button><button type="button" class="btn btn-mobilenav col-ss-10"><a href="/about-ubc-sauder" class="menu-2595 first with-dropdown">About UBC Sauder</a></button></div><ul class="dropdown-menu"><li class="menu-2545 first with-dropdown"><div class="btn-group btn-block" role="group"><button class="btn btn-mobilenav dropdown-toggle col-ss-2" aria-expanded="false"><span class="fa fa-plus-circle"></span></button><button type="button" class="btn btn-mobilenav col-ss-10"><a href="/orientation" class="menu-2545 first with-dropdown">Orientation</a></button></div><ul class="dropdown-menu"><li class="menu-17358 first last nokids"><button class="btn btn-mobilenav btn-block"><a href="/orientationhiring" class="menu-17358 first last nokids">Orientation Hiring</a></button></li>
+</ul></li>
+<li class="menu-2546 with-dropdown"><div class="btn-group btn-block" role="group"><button class="btn btn-mobilenav dropdown-toggle col-ss-2" aria-expanded="false"><span class="fa fa-plus-circle"></span></button><button type="button" class="btn btn-mobilenav col-ss-10"><a href="/ugo" class="menu-2546 with-dropdown">Undergraduate Office</a></button></div><ul class="dropdown-menu"><li class="menu-17321 first last nokids"><button class="btn btn-mobilenav btn-block"><a href="/ugo/faqs" class="menu-17321 first last nokids">Frequently asked questions</a></button></li>
+</ul></li>
+<li class="menu-2426 with-dropdown"><div class="btn-group btn-block" role="group"><button class="btn btn-mobilenav dropdown-toggle col-ss-2" aria-expanded="false"><span class="fa fa-plus-circle"></span></button><button type="button" class="btn btn-mobilenav col-ss-10"><a href="/clc" class="menu-2426 with-dropdown">Learning Commons and Library</a></button></div><ul class="dropdown-menu"><li class="menu-2707 first nokids"><button class="btn btn-mobilenav btn-block"><a href="/clc/book-and-equipment-borrowing" class="menu-2707 first nokids">Book and equipment borrowing</a></button></li>
+<li class="menu-2706 nokids"><button class="btn btn-mobilenav btn-block"><a href="/clc/printing-and-photocopying" class="menu-2706 nokids">Printing and photocopying</a></button></li>
+<li class="menu-2554 last nokids"><button class="btn btn-mobilenav btn-block"><a href="/clc/study-spaces" class="menu-2554 last nokids">Study spaces</a></button></li>
+</ul></li>
+<li class="menu-2547 nokids"><button class="btn btn-mobilenav btn-block"><a href="/bcc" class="menu-2547 nokids">Business Career Centre</a></button></li>
+<li class="menu-2548 nokids"><button class="btn btn-mobilenav btn-block"><a href="/student-initiatives-and-government" class="menu-2548 nokids">Student Initiatives and Government</a></button></li>
+<li class="menu-2549 nokids"><button class="btn btn-mobilenav btn-block"><a href="/alumni-and-friends" class="menu-2549 nokids">Alumni and Friends</a></button></li>
+<li class="menu-15899 nokids"><button class="btn btn-mobilenav btn-block"><a href="/ubc-sauder-parent-family-network" class="menu-15899 nokids">Parent &amp; Family Network</a></button></li>
+<li class="menu-2550 last with-dropdown"><div class="btn-group btn-block" role="group"><button class="btn btn-mobilenav dropdown-toggle col-ss-2" aria-expanded="false"><span class="fa fa-plus-circle"></span></button><button type="button" class="btn btn-mobilenav col-ss-10"><a href="/specialized-learning-spaces" class="menu-2550 last with-dropdown">Specialized Learning Spaces</a></button></div><ul class="dropdown-menu"><li class="menu-2552 first nokids"><button class="btn btn-mobilenav btn-block"><a href="/specialized-learning-spaces/digital-media-lab" class="menu-2552 first nokids">Digital Media Lab</a></button></li>
+<li class="menu-15363 nokids"><button class="btn btn-mobilenav btn-block"><a href="/specialized-learning-spaces/leith-wheeler-investment-research-lab" class="menu-15363 nokids">Leith Wheeler Investment Research Lab</a></button></li>
+<li class="menu-2551 nokids"><button class="btn btn-mobilenav btn-block"><a href="/specialized-learning-spaces/ubc-sauder-learning-labs" class="menu-2551 nokids">UBC Sauder Learning Labs</a></button></li>
+<li class="menu-2553 last nokids"><button class="btn btn-mobilenav btn-block"><a href="/specialized-learning-spaces/wayne-deans-investment-analysis-centre" class="menu-2553 last nokids">Wayne Deans Investment Analysis Centre</a></button></li>
+</ul></li>
+</ul></li>
+<li class="menu-2661 with-dropdown"><div class="btn-group btn-block" role="group"><button class="btn btn-mobilenav dropdown-toggle col-ss-2" aria-expanded="false"><span class="fa fa-plus-circle"></span></button><button type="button" class="btn btn-mobilenav col-ss-10"><a href="/academic-success" class="menu-2661 with-dropdown">Academic Success</a></button></div><ul class="dropdown-menu"><li class="menu-15103 first with-dropdown"><div class="btn-group btn-block" role="group"><button class="btn btn-mobilenav dropdown-toggle col-ss-2" aria-expanded="false"><span class="fa fa-plus-circle"></span></button><button type="button" class="btn btn-mobilenav col-ss-10"><a href="/get-better-grades" class="menu-15103 first with-dropdown">Get Better Grades</a></button></div><ul class="dropdown-menu"><li class="menu-15315 first nokids"><button class="btn btn-mobilenav btn-block"><a href="/get-better-grades/pass" class="menu-15315 first nokids">Peer Assisted Study Sessions (PASS)</a></button></li>
+<li class="menu-15311 nokids"><button class="btn btn-mobilenav btn-block"><a href="/get-better-grades/presentation-coaching" class="menu-15311 nokids">Presentation Coaching</a></button></li>
+<li class="menu-2559 nokids"><button class="btn btn-mobilenav btn-block"><a href="/get-better-grades/research-support" class="menu-2559 nokids">Research Support</a></button></li>
+<li class="menu-2557 nokids"><button class="btn btn-mobilenav btn-block"><a href="/get-better-grades/communication" class="menu-2557 nokids">Communication Development Programs</a></button></li>
+<li class="menu-17361 last nokids"><button class="btn btn-mobilenav btn-block"><a href="/get-better-grades/math-coaching" class="menu-17361 last nokids">Math Coaching</a></button></li>
+</ul></li>
+<li class="menu-2560 nokids"><button class="btn btn-mobilenav btn-block"><a href="/get-advice" class="menu-2560 nokids">Get Advice</a></button></li>
+<li class="menu-2561 with-dropdown"><div class="btn-group btn-block" role="group"><button class="btn btn-mobilenav dropdown-toggle col-ss-2" aria-expanded="false"><span class="fa fa-plus-circle"></span></button><button type="button" class="btn btn-mobilenav col-ss-10"><a href="/know-my-rights-and-responsibilities" class="menu-2561 with-dropdown">Know My Rights and Responsibilities</a></button></div><ul class="dropdown-menu"><li class="menu-2564 first nokids"><button class="btn btn-mobilenav btn-block"><a href="/academic-concession" class="menu-2564 first nokids">Academic Concession</a></button></li>
+<li class="menu-2562 nokids"><button class="btn btn-mobilenav btn-block"><a href="/academic-integrity" class="menu-2562 nokids">Academic Integrity</a></button></li>
+<li class="menu-2563 nokids"><button class="btn btn-mobilenav btn-block"><a href="/attendance" class="menu-2563 nokids">Attendance</a></button></li>
+<li class="menu-17320 last nokids"><button class="btn btn-mobilenav btn-block"><a href="/statement-of-professionalism-and-code-conduct" class="menu-17320 last nokids">Statement of Professionalism and Code of Conduct</a></button></li>
+</ul></li>
+<li class="menu-17353 last with-dropdown"><div class="btn-group btn-block" role="group"><button class="btn btn-mobilenav dropdown-toggle col-ss-2" aria-expanded="false"><span class="fa fa-plus-circle"></span></button><button type="button" class="btn btn-mobilenav col-ss-10"><a href="https://mybcom.sauder.ubc.ca/other-academic-resources" class="menu-17353 last with-dropdown">Other academic resources</a></button></div><ul class="dropdown-menu"><li class="menu-17356 first nokids"><button class="btn btn-mobilenav btn-block"><a href="https://mybcom.sauder.ubc.ca/learning-and-studying-resources" class="menu-17356 first nokids">Learning and Studying Resources</a></button></li>
+<li class="menu-17352 nokids"><button class="btn btn-mobilenav btn-block"><a href="https://mybcom.sauder.ubc.ca/indigenous-student-resources" class="menu-17352 nokids">Indigenous student resources</a></button></li>
+<li class="menu-17341 last nokids"><button class="btn btn-mobilenav btn-block"><a href="/onlinelearning" class="menu-17341 last nokids">BCom online learning and support</a></button></li>
+</ul></li>
+</ul></li>
+<li class="menu-2691 nokids"><button class="btn btn-mobilenav btn-block"><a href="/health-wellness" class="menu-2691 nokids">Health &amp; Wellness</a></button></li>
+<li class="menu-2670 with-dropdown"><div class="btn-group btn-block" role="group"><button class="btn btn-mobilenav dropdown-toggle col-ss-2" aria-expanded="false"><span class="fa fa-plus-circle"></span></button><button type="button" class="btn btn-mobilenav col-ss-10"><a href="/global-reach" class="menu-2670 with-dropdown">Global Reach</a></button></div><ul class="dropdown-menu"><li class="menu-2566 first nokids"><button class="btn btn-mobilenav btn-block"><a href="/international-exchange" class="menu-2566 first nokids">International Exchange</a></button></li>
+<li class="menu-2904 last nokids"><button class="btn btn-mobilenav btn-block"><a href="/visiting-exchange-students" class="menu-2904 last nokids">Coming to UBC Sauder on Exchange</a></button></li>
+</ul></li>
+<li class="menu-2668 with-dropdown"><div class="btn-group btn-block" role="group"><button class="btn btn-mobilenav dropdown-toggle col-ss-2" aria-expanded="false"><span class="fa fa-plus-circle"></span></button><button type="button" class="btn btn-mobilenav col-ss-10"><a href="/careers" class="menu-2668 with-dropdown">Career & Experience</a></button></div><ul class="dropdown-menu"><li class="menu-17271 first with-dropdown"><div class="btn-group btn-block" role="group"><button class="btn btn-mobilenav dropdown-toggle col-ss-2" aria-expanded="false"><span class="fa fa-plus-circle"></span></button><button type="button" class="btn btn-mobilenav col-ss-10"><a href="/career-%26-personal-exploration" class="menu-17271 first with-dropdown">Career & Personal Exploration</a></button></div><ul class="dropdown-menu"><li class="menu-17363 first nokids"><button class="btn btn-mobilenav btn-block"><a href="/career-experience/career-resources/personal-development-resources" class="menu-17363 first nokids">Personal Development Resources</a></button></li>
+<li class="menu-17374 nokids"><button class="btn btn-mobilenav btn-block"><a href="/career-experience/career-personal-exploration/career-exploration-resources" class="menu-17374 nokids">Career Exploration Resources</a></button></li>
+<li class="menu-2582 nokids"><button class="btn btn-mobilenav btn-block"><a href="/what-can-i-do-with-my-degree" class="menu-2582 nokids">What Can I Do With My Degree?</a></button></li>
+<li class="menu-17279 nokids"><button class="btn btn-mobilenav btn-block"><a href="/ubc-sauder-alumni-job-data" class="menu-17279 nokids">UBC Sauder Alumni Job Data</a></button></li>
+<li class="menu-17340 nokids"><button class="btn btn-mobilenav btn-block"><a href="/career-experience/my-unique-career-journey" class="menu-17340 nokids">Navigate Your Career Journey</a></button></li>
+<li class="menu-2578 last nokids"><button class="btn btn-mobilenav btn-block"><a href="/career-experience/career-options/graduate-studies" class="menu-2578 last nokids">Graduate Studies</a></button></li>
+</ul></li>
+<li class="menu-17362 with-dropdown"><div class="btn-group btn-block" role="group"><button class="btn btn-mobilenav dropdown-toggle col-ss-2" aria-expanded="false"><span class="fa fa-plus-circle"></span></button><button type="button" class="btn btn-mobilenav col-ss-10"><a href="/career-experience/gain-experience" class="menu-17362 with-dropdown">Gain Experience</a></button></div><ul class="dropdown-menu"><li class="menu-17364 first nokids"><button class="btn btn-mobilenav btn-block"><a href="/career-experience/gain-experience/work-and-volunteer-experience" class="menu-17364 first nokids">Work and Volunteer Experience</a></button></li>
+<li class="menu-17286 nokids"><button class="btn btn-mobilenav btn-block"><a href="/career-experience/mentorship-specialty-programs" class="menu-17286 nokids">Mentorship &amp; Specialty Programs</a></button></li>
+<li class="menu-17375 nokids"><button class="btn btn-mobilenav btn-block"><a href="/career-experience/co-op-program" class="menu-17375 nokids">Co-op Program</a></button></li>
+<li class="menu-15083 nokids"><button class="btn btn-mobilenav btn-block"><a href="/career-experience/career-resources/job-search-resources" class="menu-15083 nokids">Job Search Resources</a></button></li>
+<li class="menu-17376 nokids"><button class="btn btn-mobilenav btn-block"><a href="/career-experience/career-resources/cool-career-platform" class="menu-17376 nokids">COOL Career Platform</a></button></li>
+<li class="menu-17270 last nokids"><button class="btn btn-mobilenav btn-block"><a href="/career-experience/where-can-i-work%3F" class="menu-17270 last nokids">Where can I work?</a></button></li>
+</ul></li>
+<li class="menu-17371 with-dropdown"><div class="btn-group btn-block" role="group"><button class="btn btn-mobilenav dropdown-toggle col-ss-2" aria-expanded="false"><span class="fa fa-plus-circle"></span></button><button type="button" class="btn btn-mobilenav col-ss-10"><a href="/career-experience/networking-events" class="menu-17371 with-dropdown">Networking & Events</a></button></div><ul class="dropdown-menu"><li class="menu-17372 first nokids"><button class="btn btn-mobilenav btn-block"><a href="/career-experience/networking-events/networking-resources" class="menu-17372 first nokids">Networking Resources</a></button></li>
+<li class="menu-17277 nokids"><button class="btn btn-mobilenav btn-block"><a href="/career-experience/career-resources/linkedin-resources" class="menu-17277 nokids">LinkedIn Resources</a></button></li>
+<li class="menu-2575 last nokids"><button class="btn btn-mobilenav btn-block"><a href="/career-experience/industry-events-%26-workshops" class="menu-2575 last nokids">Industry Events &amp; Workshop</a></button></li>
+</ul></li>
+<li class="menu-17368 with-dropdown"><div class="btn-group btn-block" role="group"><button class="btn btn-mobilenav dropdown-toggle col-ss-2" aria-expanded="false"><span class="fa fa-plus-circle"></span></button><button type="button" class="btn btn-mobilenav col-ss-10"><a href="/career-experience/resumes-cover-letters" class="menu-17368 with-dropdown">Resumes & Cover Letters</a></button></div><ul class="dropdown-menu"><li class="menu-17369 first nokids"><button class="btn btn-mobilenav btn-block"><a href="/career-experience/resumes-cover-letters/resume-resources" class="menu-17369 first nokids">Resume Resources</a></button></li>
+<li class="menu-17370 last nokids"><button class="btn btn-mobilenav btn-block"><a href="/career-experience/resumes-cover-letters/cover-letter-resources" class="menu-17370 last nokids">Cover Letter Resources</a></button></li>
+</ul></li>
+<li class="menu-17365 with-dropdown"><div class="btn-group btn-block" role="group"><button class="btn btn-mobilenav dropdown-toggle col-ss-2" aria-expanded="false"><span class="fa fa-plus-circle"></span></button><button type="button" class="btn btn-mobilenav col-ss-10"><a href="/career-experience/job-interviews" class="menu-17365 with-dropdown">Job Interviews</a></button></div><ul class="dropdown-menu"><li class="menu-17366 first nokids"><button class="btn btn-mobilenav btn-block"><a href="/career-experience/job-interviews/interview-prep-resources" class="menu-17366 first nokids">Interview Prep Resources</a></button></li>
+<li class="menu-17316 nokids"><button class="btn btn-mobilenav btn-block"><a href="/career-experience/career-resources/case-interview-resources" class="menu-17316 nokids">Case Interview Resources</a></button></li>
+<li class="menu-17373 last nokids"><button class="btn btn-mobilenav btn-block"><a href="/career-experience/job-interviews/negotiation-resources-0" class="menu-17373 last nokids">Negotiation Resources</a></button></li>
+</ul></li>
+<li class="menu-17276 nokids"><button class="btn btn-mobilenav btn-block"><a href="/career-experience/career-resources/cool-career-platform" class="menu-17276 nokids">COOL Career Platform</a></button></li>
+<li class="menu-17284 with-dropdown"><div class="btn-group btn-block" role="group"><button class="btn btn-mobilenav dropdown-toggle col-ss-2" aria-expanded="false"><span class="fa fa-plus-circle"></span></button><button type="button" class="btn btn-mobilenav col-ss-10"><a href="/career-experience/career-coaching" class="menu-17284 with-dropdown">Career Coaching & Advising</a></button></div><ul class="dropdown-menu"><li class="menu-17287 first nokids"><button class="btn btn-mobilenav btn-block"><a href="/career-experience/career-coaching/bcom-career-strategists" class="menu-17287 first nokids">BCom Career Strategists</a></button></li>
+<li class="menu-17245 nokids"><button class="btn btn-mobilenav btn-block"><a href="/career-experience/career-coaching/career-peer-advisors" class="menu-17245 nokids">Career Peer Advisors</a></button></li>
+<li class="menu-17290 last nokids"><button class="btn btn-mobilenav btn-block"><a href="/career-experience/career-coaching/co-op-managers" class="menu-17290 last nokids">Co-op Managers</a></button></li>
+</ul></li>
+<li class="menu-2581 last with-dropdown"><div class="btn-group btn-block" role="group"><button class="btn btn-mobilenav dropdown-toggle col-ss-2" aria-expanded="false"><span class="fa fa-plus-circle"></span></button><button type="button" class="btn btn-mobilenav col-ss-10"><a href="/career-experience/co-op-program" class="menu-2581 last with-dropdown">Co-op Program</a></button></div><ul class="dropdown-menu"><li class="menu-2609 first nokids"><button class="btn btn-mobilenav btn-block"><a href="/career-experience/co-op-program/why-co-op" class="menu-2609 first nokids">Why Co-op?</a></button></li>
+<li class="menu-2610 nokids"><button class="btn btn-mobilenav btn-block"><a href="/career-experience/co-op-program/my-co-op-experience" class="menu-2610 nokids">My Co-op Experience</a></button></li>
+<li class="menu-2611 nokids"><button class="btn btn-mobilenav btn-block"><a href="/career-experience/co-op-program/requirements-%26-how-to-apply" class="menu-2611 nokids">Requirements &amp; How to Apply</a></button></li>
+<li class="menu-17329 nokids"><button class="btn btn-mobilenav btn-block"><a href="/career-experience/co-op-program/co-op-key-facts" class="menu-17329 nokids">Co-op Key Facts</a></button></li>
+<li class="menu-2612 nokids"><button class="btn btn-mobilenav btn-block"><a href="/career-experience/co-op-program/faqs" class="menu-2612 nokids">Frequently Asked Questions</a></button></li>
+<li class="menu-17330 last nokids"><button class="btn btn-mobilenav btn-block"><a href="/career-experience/co-op-program/co-op-employers" class="menu-17330 last nokids">Co-op Employers</a></button></li>
+</ul></li>
+</ul></li>
+<li class="menu-2669 with-dropdown"><div class="btn-group btn-block" role="group"><button class="btn btn-mobilenav dropdown-toggle col-ss-2" aria-expanded="false"><span class="fa fa-plus-circle"></span></button><button type="button" class="btn btn-mobilenav col-ss-10"><a href="/courses-money-and-enrolment" class="menu-2669 with-dropdown">Courses, Money & Enrolment</a></button></div><ul class="dropdown-menu"><li class="menu-2693 first nokids"><button class="btn btn-mobilenav btn-block"><a href="/courses-money-and-enrolment/dates-and-deadlines" class="menu-2693 first nokids">Dates and Deadlines</a></button></li>
+<li class="menu-2624 with-dropdown"><div class="btn-group btn-block" role="group"><button class="btn btn-mobilenav dropdown-toggle col-ss-2" aria-expanded="false"><span class="fa fa-plus-circle"></span></button><button type="button" class="btn btn-mobilenav col-ss-10"><a href="/courses-money-and-enrolment/program-requirements" class="menu-2624 with-dropdown">Program Requirements</a></button></div><ul class="dropdown-menu"><li class="menu-2633 first nokids"><button class="btn btn-mobilenav btn-block"><a href="/courses-money-and-enrolment/program-requirements/general-program-requirements" class="menu-2633 first nokids">General Program Requirements</a></button></li>
+<li class="menu-2634 nokids"><button class="btn btn-mobilenav btn-block"><a href="/bucs" class="menu-2634 nokids">Combined Major in Business and Computer Science</a></button></li>
+<li class="menu-17344 last nokids"><button class="btn btn-mobilenav btn-block"><a href="/hku-dual-degree-program" class="menu-17344 last nokids">UBC Sauder – HKU Dual Degree Program</a></button></li>
+</ul></li>
+<li class="menu-2625 with-dropdown"><div class="btn-group btn-block" role="group"><button class="btn btn-mobilenav dropdown-toggle col-ss-2" aria-expanded="false"><span class="fa fa-plus-circle"></span></button><button type="button" class="btn btn-mobilenav col-ss-10"><a href="/courses-money-and-enrolment/courses-and-registration" class="menu-2625 with-dropdown">Courses and Registration</a></button></div><ul class="dropdown-menu"><li class="menu-10591 first nokids"><button class="btn btn-mobilenav btn-block"><a href="/courses-money-and-enrolment/courses" class="menu-10591 first nokids">Course Search</a></button></li>
+<li class="menu-14879 nokids"><button class="btn btn-mobilenav btn-block"><a href="/courses-money-enrolment/courses-and-registration/registering-for-courses" class="menu-14879 nokids">Registering for Courses</a></button></li>
+<li class="menu-2638 nokids"><button class="btn btn-mobilenav btn-block"><a href="/courses-money-and-enrolment/courses-and-registration/summer-courses" class="menu-2638 nokids">Summer Courses</a></button></li>
+<li class="menu-2637 nokids"><button class="btn btn-mobilenav btn-block"><a href="/courses-money-and-enrolment/courses-and-registration/registration-assistance" class="menu-2637 nokids">Registration Assistance</a></button></li>
+<li class="menu-17266 nokids"><button class="btn btn-mobilenav btn-block"><a href="/letters" class="menu-17266 nokids">Requesting Documentation</a></button></li>
+<li class="menu-17332 nokids"><button class="btn btn-mobilenav btn-block"><a href="/bcom-program-planning-tool" class="menu-17332 nokids">BCom Course Planning Worksheets</a></button></li>
+<li class="menu-17378 last nokids"><button class="btn btn-mobilenav btn-block"><a href="/courses-money-enrolment/courses-and-registration/taking-courses-outside-ubc" class="menu-17378 last nokids">Taking Courses Outside of UBC</a></button></li>
+</ul></li>
+<li class="menu-2626 with-dropdown"><div class="btn-group btn-block" role="group"><button class="btn btn-mobilenav dropdown-toggle col-ss-2" aria-expanded="false"><span class="fa fa-plus-circle"></span></button><button type="button" class="btn btn-mobilenav col-ss-10"><a href="/options" class="menu-2626 with-dropdown">Options</a></button></div><ul class="dropdown-menu"><li class="menu-15859 first nokids"><button class="btn btn-mobilenav btn-block"><a href="/courses-money-enrolment/options/choosing-your-option" class="menu-15859 first nokids">How to Choose Your Option</a></button></li>
+<li class="menu-14873 nokids"><button class="btn btn-mobilenav btn-block"><a href="/courses-money-enrolment/options/registering-your-option" class="menu-14873 nokids">Registering for Your Option</a></button></li>
+<li class="menu-14875 nokids"><button class="btn btn-mobilenav btn-block"><a href="/option-waitlist" class="menu-14875 nokids">Option Waitlist</a></button></li>
+<li class="menu-14877 nokids"><button class="btn btn-mobilenav btn-block"><a href="/courses-money-enrolment/options/double-options" class="menu-14877 nokids">Double Options</a></button></li>
+<li class="menu-2639 nokids"><button class="btn btn-mobilenav btn-block"><a href="/courses-money-enrolment/options/accounting" class="menu-2639 nokids">Accounting</a></button></li>
+<li class="menu-2640 nokids"><button class="btn btn-mobilenav btn-block"><a href="/courses-money-enrolment/options/business-technology-management" class="menu-2640 nokids">Business Technology Management</a></button></li>
+<li class="menu-2641 nokids"><button class="btn btn-mobilenav btn-block"><a href="/courses-money-enrolment/options/entrepreneurship" class="menu-2641 nokids">Entrepreneurship</a></button></li>
+<li class="menu-2642 nokids"><button class="btn btn-mobilenav btn-block"><a href="/courses-money-enrolment/options/finance" class="menu-2642 nokids">Finance</a></button></li>
+<li class="menu-17334 nokids"><button class="btn btn-mobilenav btn-block"><a href="/early-start-to-the-finance-option" class="menu-17334 nokids">Early Start to the Finance Option</a></button></li>
+<li class="menu-2643 nokids"><button class="btn btn-mobilenav btn-block"><a href="/courses-money-enrolment/options/general-business-management" class="menu-2643 nokids">General Business Management</a></button></li>
+<li class="menu-2644 nokids"><button class="btn btn-mobilenav btn-block"><a href="/courses-money-enrolment/options/global-supply-chain-and-logistics-management" class="menu-2644 nokids">Global Supply Chain and Logistics Management</a></button></li>
+<li class="menu-2645 nokids"><button class="btn btn-mobilenav btn-block"><a href="/courses-money-enrolment/options/international-business" class="menu-2645 nokids">International Business</a></button></li>
+<li class="menu-2646 nokids"><button class="btn btn-mobilenav btn-block"><a href="/courses-money-enrolment/options/marketing" class="menu-2646 nokids">Marketing</a></button></li>
+<li class="menu-2649 nokids"><button class="btn btn-mobilenav btn-block"><a href="/courses-money-enrolment/options/transportation-and-logistics" class="menu-2649 nokids">Operations and Logistics</a></button></li>
+<li class="menu-2647 nokids"><button class="btn btn-mobilenav btn-block"><a href="/courses-money-enrolment/options/organizational-behaviour-and-human-resources" class="menu-2647 nokids">Organizational Behaviour and Human Resources</a></button></li>
+<li class="menu-2648 last nokids"><button class="btn btn-mobilenav btn-block"><a href="/courses-money-enrolment/options/real-estate" class="menu-2648 last nokids">Real Estate</a></button></li>
+</ul></li>
+<li class="menu-2627 nokids"><button class="btn btn-mobilenav btn-block"><a href="/elective-requirements" class="menu-2627 nokids">Elective Requirements</a></button></li>
+<li class="menu-2628 with-dropdown"><div class="btn-group btn-block" role="group"><button class="btn btn-mobilenav dropdown-toggle col-ss-2" aria-expanded="false"><span class="fa fa-plus-circle"></span></button><button type="button" class="btn btn-mobilenav col-ss-10"><a href="/courses-money-and-enrolment/exams-and-grades" class="menu-2628 with-dropdown">Exams and Grades</a></button></div><ul class="dropdown-menu"><li class="menu-2654 first nokids"><button class="btn btn-mobilenav btn-block"><a href="/courses-money-and-enrolment/exams-and-grades/exams" class="menu-2654 first nokids">Exams</a></button></li>
+<li class="menu-2651 nokids"><button class="btn btn-mobilenav btn-block"><a href="/courses-money-and-enrolment/exams-and-grades/grades" class="menu-2651 nokids">Grades</a></button></li>
+<li class="menu-2652 nokids"><button class="btn btn-mobilenav btn-block"><a href="/courses-money-and-enrolment/exams-and-grades/promotion-requirements" class="menu-2652 nokids">Continuation and Promotion</a></button></li>
+<li class="menu-2653 nokids"><button class="btn btn-mobilenav btn-block"><a href="/courses-money-and-enrolment/exams-and-grades/academic-honours" class="menu-2653 nokids">Academic Honours</a></button></li>
+<li class="menu-17379 last nokids"><button class="btn btn-mobilenav btn-block"><a href="/courses-money-and-enrolment/exams-and-grades/campus-closures" class="menu-17379 last nokids">Campus Closures</a></button></li>
+</ul></li>
+<li class="menu-2629 with-dropdown"><div class="btn-group btn-block" role="group"><button class="btn btn-mobilenav dropdown-toggle col-ss-2" aria-expanded="false"><span class="fa fa-plus-circle"></span></button><button type="button" class="btn btn-mobilenav col-ss-10"><a href="/courses-money-and-enrolment/specialized-academic-opportunities" class="menu-2629 with-dropdown">Specialized Academic Opportunities</a></button></div><ul class="dropdown-menu"><li class="menu-17355 first nokids"><button class="btn btn-mobilenav btn-block"><a href="https://www.sauder.ubc.ca/swift" class="menu-17355 first nokids">UBC SWIFT: UBC Sauder Women in Finance Training</a></button></li>
+<li class="menu-2655 nokids"><button class="btn btn-mobilenav btn-block"><a href="/csp" class="menu-2655 nokids">Commerce Scholars Program</a></button></li>
+<li class="menu-17357 nokids"><button class="btn btn-mobilenav btn-block"><a href="/public-speaking-competition" class="menu-17357 nokids">UBC Sauder Public Speaking Competition</a></button></li>
+<li class="menu-2657 last nokids"><button class="btn btn-mobilenav btn-block"><a href="/courses-money-and-enrolment/specialized-academic-opportunities/ubco-cross-campus-mobility" class="menu-2657 last nokids">UBCO Cross Campus Mobility</a></button></li>
+</ul></li>
+<li class="menu-2630 with-dropdown"><div class="btn-group btn-block" role="group"><button class="btn btn-mobilenav dropdown-toggle col-ss-2" aria-expanded="false"><span class="fa fa-plus-circle"></span></button><button type="button" class="btn btn-mobilenav col-ss-10"><a href="/courses-money-and-enrolment/minors-and-concentrations" class="menu-2630 with-dropdown">Minors and Concentrations</a></button></div><ul class="dropdown-menu"><li class="menu-2658 first nokids"><button class="btn btn-mobilenav btn-block"><a href="/courses-money-and-enrolment/minors-and-concentrations/minor-arts-or-science" class="menu-2658 first nokids">Minor in Arts or Science</a></button></li>
+<li class="menu-2659 nokids"><button class="btn btn-mobilenav btn-block"><a href="/courses-money-and-enrolment/minors-and-concentrations/minor-commerce" class="menu-2659 nokids">Minor in Commerce</a></button></li>
+<li class="menu-17264 nokids"><button class="btn btn-mobilenav btn-block"><a href="/business-analytics-concentration" class="menu-17264 nokids">Business Analytics Concentration</a></button></li>
+<li class="menu-17265 nokids"><button class="btn btn-mobilenav btn-block"><a href="/business-law-concentration" class="menu-17265 nokids">Business Law Concentration</a></button></li>
+<li class="menu-17327 nokids"><button class="btn btn-mobilenav btn-block"><a href="/international-business-concentration" class="menu-17327 nokids">International Business Concentration</a></button></li>
+<li class="menu-2660 last nokids"><button class="btn btn-mobilenav btn-block"><a href="/sustainability-and-social-impact-concentration" class="menu-2660 last nokids">Sustainability and Social Impact Concentration</a></button></li>
+</ul></li>
+<li class="menu-2631 with-dropdown"><div class="btn-group btn-block" role="group"><button class="btn btn-mobilenav dropdown-toggle col-ss-2" aria-expanded="false"><span class="fa fa-plus-circle"></span></button><button type="button" class="btn btn-mobilenav col-ss-10"><a href="/courses-money-and-enrolment/scholarships-funding" class="menu-2631 with-dropdown">Scholarships and Funding</a></button></div><ul class="dropdown-menu"><li class="menu-10577 first nokids"><button class="btn btn-mobilenav btn-block"><a href="/courses-money-and-enrolment/scholarships" class="menu-10577 first nokids">Scholarship Search</a></button></li>
+<li class="menu-17241 last nokids"><button class="btn btn-mobilenav btn-block"><a href="/ugogrant" class="menu-17241 last nokids">UGO Student Experience Grants</a></button></li>
+</ul></li>
+<li class="menu-2632 last nokids"><button class="btn btn-mobilenav btn-block"><a href="/courses-money-enrolment/graduation" class="menu-2632 last nokids">Graduation</a></button></li>
+</ul></li>
+<li class="menu-17247 last nokids"><button class="btn btn-mobilenav btn-block"><a href="https://mybcom.sauder.ubc.ca/support" class="menu-17247 last nokids">Support</a></button></li>
+</ul>    </nav>
+  <nav class="mobile-secondary-navigation" role="navigation">
+      <ul class="nav nav-pills"><li class="first leaf"><a href="https://sauder-ubc-csm.symplicity.com/" target="_blank">COOL</a></li>
+<li class="leaf"><a href="http://canvas.ubc.ca">Canvas</a></li>
+<li class="leaf"><a href="http://lam.library.ubc.ca/" target="_blank">David Lam Library</a></li>
+<li class="last leaf"><a href="https://cas.id.ubc.ca/ubc-cas/login?TARGET=https%3A%2F%2Fssc.adm.ubc.ca%2Fsscportal%2Fservlets%2FSRVSSCFramework" target="_blank">SSC</a></li>
+</ul>    </nav>
+</div>
+  <script src="https://mybcom.sauder.ubc.ca/sites/mybcom.sauder.ubc.ca/files/js/js_7Ukqb3ierdBEL0eowfOKzTkNu-Le97OPm-UqTS5NENU.js"></script>
+<script src="https://mybcom.sauder.ubc.ca/sites/mybcom.sauder.ubc.ca/files/js/js_IJFeHvTJKCHNcE3s6fIpFfE5P1gdzB2bVgXUpN6TD0w.js"></script>
+</body>
+</html>

@@ -1,0 +1,36 @@
+{
+    "commerce-and-business-administration": {
+        "start_urls": [
+            "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-commerce-and-business-administration",
+            "https://mybcom.sauder.ubc.ca"
+        ],
+        "allowed_domains": {
+            "vancouver.calendar.ubc.ca": [
+                "/faculties-colleges-and-schools/faculty-commerce-and-business-administration/"
+            ],
+            "mybcom.sauder.ubc.ca": [
+                "/"
+            ]
+        }
+    },
+    "arts": {
+        "start_urls": [
+            "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts",
+            "https://www.arts.ubc.ca/"
+        ],
+        "allowed_domains": [
+            "vancouver.calendar.ubc.ca",
+            "www.arts.ubc.ca"
+        ]
+    },
+    "science": {
+        "start_urls": [
+            "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science",
+            "https://www.science.ubc.ca/"
+        ],
+        "allowed_domains": [
+            "vancouver.calendar.ubc.ca",
+            "www.science.ubc.ca"
+        ]
+    }
+}
