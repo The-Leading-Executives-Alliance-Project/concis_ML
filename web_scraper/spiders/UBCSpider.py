@@ -147,7 +147,7 @@ class UBCSpider(CrawlSpider):
 
         for link in absolute_links :
             if link == "https://mybcom.sauder.ubc.ca/courses-money-enrolment/options":
-                print("the options is found in the links of the current webpage : ", link)
+                print("the options is found in the links of the current webpage : ", response.url)
 
         content = response.xpath('//body//text()').getall()
         item['content_hash'] = self.hash_content(content)
@@ -184,7 +184,17 @@ class UBCSpider(CrawlSpider):
             links = [lnk for lnk in rule.link_extractor.extract_links(response)
                     if lnk not in seen]
             if links and rule.process_links:
+                
+                for link in links:
+                    print("link.url is :", link.url)
+                    if link.url == "https://mybcom.sauder.ubc.ca/courses-money-enrolment/options" :
+                        print("_requests_to_follow found the options webpage in pre-process_links : ", response.url)
+
                 links = rule.process_links(links)
+
+                for link in links:
+                    if link.url == "https://mybcom.sauder.ubc.ca/courses-money-enrolment/options" :
+                        print("_requests_to_follow found the options webpage in post-process_links : ", response.url)
             for link in links:
                 seen.add(link)
                 r = self._build_request(n, link)

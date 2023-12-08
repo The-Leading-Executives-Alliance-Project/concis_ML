@@ -66,7 +66,7 @@ DOWNLOADER_MIDDLEWARES = {
     # 'scrapy_user_agents.middlewares.RandomUserAgentMiddleware': 545,
     # 'web_scraper.middlewares.ScrapeOpsProxyMiddleware': 544,
 
-    'scrapeops_scrapy_proxy_sdk.scrapeops_scrapy_proxy_sdk.ScrapeOpsScrapyProxySdk': 725,
+    # 'scrapeops_scrapy_proxy_sdk.scrapeops_scrapy_proxy_sdk.ScrapeOpsScrapyProxySdk': 725,
 
     'scrapeops_scrapy.middleware.retry.RetryMiddleware': 550,
     'scrapy.downloadermiddlewares.retry.RetryMiddleware': None,
@@ -114,6 +114,7 @@ FEED_EXPORT_ENCODING = "utf-8"
 # JOBDIR = 'web_scraper/crawls/UBCSpider-1'
 
 LOG_LEVEL = 'INFO'  # Set the desired log level ('INFO', 'WARNING', 'ERROR', 'CRITICAL')
+# LOG_LEVEL = 'WARNING'
 # LOG_LEVEL = 'DEBUG'
 
 
